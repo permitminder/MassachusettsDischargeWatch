@@ -1,0 +1,2727 @@
+PERMIT_NUMBER,NAICS_CODE,NAICS_DESC,SIC_CODE,SIC_DESC
+MA0000132,,,1442,Construction Sand And Gravel
+MA0000272,,,4011,"Railroads, Line-Haul Operating"
+MA0000311,,,3559,Special Industry Machinery
+MA0000469,,,2621,Paper Mills
+MA0000531,,,3273,Ready-Mixed Concrete
+MA0000671,,,2621,Paper Mills
+MA0000787,,,4581,"Airports, Flying Fields, & Services"
+MA0000795,,,8221,Colleges And Universities
+MA0000817,,,3291,Abrasive Products
+MA0000825,,,5171,Petroleum Bulk Stations & Terminals
+MA0000833,,,5171,Petroleum Bulk Stations & Terminals
+MA0001091,,,5171,Petroleum Bulk Stations & Terminals
+MA0001121,,,3341,Secondary Nonferrous Metals
+MA0001147,,,2821,Plastics Materials And Resins
+MA0001236,,,5171,Petroleum Bulk Stations & Terminals
+MA0001261,,,3661,Telephone And Telegraph Apparatus
+MA0001350,,,3545,Machine Tool Accessories
+MA0001503,,,3081,Unsupported Plastics Film & Sheet
+MA0001520,,,4911,Electric Services
+MA0001538,,,2221,"Broadwoven Fabric Mills, Manmade"
+MA0001716,322120,Paper Mills ,2621,Paper Mills
+MA0001791,,,3356,Nonferrous Rolling And Drawing
+MA0001830,,,1429,Crushed And Broken Stone
+MA0001848,,,2621,Paper Mills
+MA0001856,,,4911,Electric Services
+MA0001929,,,5191,Farm Supplies
+MA0002241,,,4911,Electric Services
+MA0003123,,,8412,Museums And Art Galleries
+MA0003280,,,5172,Petroleum Products
+MA0003298,,,5171,Petroleum Bulk Stations & Terminals
+MA0003425,,,5171,Petroleum Bulk Stations & Terminals
+MA0003484,,,3731,Ship Building And Repairing
+MA0003531,,,2952,Asphalt Felts And Coatings
+MA0003557,221113,Nuclear Electric Power Generation,4911,Electric Services
+MA0003590,,,4011,"Railroads, Line-Haul Operating"
+MA0003654,,,4911,Electric Services
+MA0003697,,,2269,Finishing Plants
+MA0003824,,,3081,Unsupported Plastics Film & Sheet
+MA0003832,,,3421,Cutlery
+MA0003891,,,3612,"Transformers, Except Electronic"
+MA0003905,,,3724,Aircraft Engines And Engine Parts
+MA0003930,,,3675,Electronic Capacitors
+MA0003956,,,2899,Chemical Preparations
+MA0004006,,,5171,Petroleum Bulk Stations & Terminals
+MA0004073,,,2841,Soap And Other Detergents
+MA0004081,,,3471,Plating And Polishing
+MA0004103,,,3625,Relays And Industrial Controls
+MA0004120,,,3471,Plating And Polishing
+MA0004341,336411,Aircraft Manufacturing,3728,Aircraft Parts And Equipment
+MA0004367,,,4911,Electric Services
+MA0004375,,,5172,Petroleum Products
+MA0004405,,,5171,Petroleum Bulk Stations & Terminals
+MA0004561,,,2621,Paper Mills
+MA0004570,,,2621,Paper Mills
+MA0004707,,,4911,Electric Services
+MA0004731,,,4911,Electric Services
+MA0004740,,,4911,Electric Services
+MA0004782,,,5171,Petroleum Bulk Stations & Terminals
+MA0004821,,,3351,Copper Rolling And Drawing
+MA0004871,,,5171,Petroleum Bulk Stations & Terminals
+MA0004898,,,4911,Electric Services
+MA0004901,,,4911,Electric Services
+MA0004928,,,4911,Electric Services
+MA0004936,,,2033,Canned Fruits And Vegetables
+MA0004940,,,4911,Electric Services
+MA0005011,,,2621,Paper Mills
+MA0005096,,,4911,Electric Services
+MA0005282,,,2621,Paper Mills
+MA0005304,,,2869,Industrial Organic Chemicals
+MA0005339,,,4911,Electric Services
+MA0005355,,,2262,"Finishing Plants, Manmade"
+MA0005371,,,2621,Paper Mills
+MA0005398,,,0921,Fish Hatcheries And Preserves
+MA0005517,,,4911,Electric Services
+MA0005576,,,8731,Commercial Physical Research
+MA0005916,,,8733,Noncommercial Research Organizations
+MA0005991,,,3274,Lime
+MA0006020,212319,Other Crushed and Broken Stone Mining and Quarrying,1429,Crushed And Broken Stone
+MA0006021,221115,Wind Electric Power Generation,4911,Electric Services
+MA0006022,322211,Corrugated and Solid Fiber Box Manufacturing,2653,Corrugated And Solid Fiber Boxes
+MA0020010,,,4922,Natural Gas Transmission
+MA0020231,,,1411,Dimension Stone
+MA0020869,,,5172,Petroleum Products
+MA0022381,,,3357,Nonferrous Wiredrawing & Insulating
+MA0022446,,,8211,Elementary And Secondary Schools
+MA0022586,,,8211,Elementary And Secondary Schools
+MA0022705,,,8361,Residential Care
+MA0022799,,,3471,Plating And Polishing
+MA0024368,,,8221,Colleges And Universities
+MA0025704,,,4011,"Railroads, Line-Haul Operating"
+MA0025763,,,8051,Skilled Nursing Care Facilities
+MA0025852,,,8733,Noncommercial Research Organizations
+MA0026182,,,8221,Colleges And Universities
+MA0026247,,,3714,Motor Vehicle Parts And Accessories
+MA0026743,,,3479,Metal Coating And Allied Services
+MA0026883,,,2869,Industrial Organic Chemicals
+MA0026891,,,3484,Small Arms
+MA0027006,,,7032,Sporting And Recreational Camps
+MA0027391,,,8052,Intermediate Care Facilities
+MA0027421,,,3061,Mechanical Rubber Goods
+MA0027871,,,6513,Apartment Building Operators
+MA0028037,,,5171,Petroleum Bulk Stations & Terminals
+MA0028193,,,4953,Refuse Systems
+MA0028649,,,3643,Current-Carrying Wiring Devices
+MA0028801,,,8733,Noncommercial Research Organizations
+MA0028835,,,6512,Nonresidential Building Operators
+MA0028941,485112,Commuter Rail Systems,4111,Local And Suburban Transit
+MA0029050,,,2821,Plastics Materials And Resins
+MA0029092,,,2092,Fresh Or Frozen Prepared Fish
+MA0029297,,,1429,Crushed And Broken Stone
+MA0029327,,,2023,"Dry, Condensed, Evaporated Products"
+MA0029424,,,3731,Ship Building And Repairing
+MA0029505,,,4961,Steam And Air-Conditioning Supply
+MA0029564,,,6513,Apartment Building Operators
+MA0029858,,,6512,Nonresidential Building Operators
+MA0030066,,,4212,"Local Trucking, Without Storage"
+MA0030244,,,6512,Nonresidential Building Operators
+MA0030350,,,8211,Elementary And Secondary Schools
+MA0030571,,,3357,Nonferrous Wiredrawing & Insulating
+MA0030660,,,5541,Gasoline Service Stations
+MA0031071,,,4911,Electric Services
+MA0031551,,,4226,Special Warehousing And Storage
+MA0031658,,,6552,Subdividers And Developers
+MA0031955,,,3829,Measuring & Controlling Devices
+MA0032034,,,4931,Electric And Other Services Combined
+MA0032212,,,4952,Sewerage Systems
+MA0032433,,,8811,Private Households
+MA0032573,,,4952,Sewerage Systems
+MA0032689,,,8221,Colleges And Universities
+MA0032751,,,4581,"Airports, Flying Fields, & Services"
+MA0033022,,,5092,Toys And Hobby Goods And Supplies
+MA0033201,,,4911,Electric Services
+MA0033324,,,8211,Elementary And Secondary Schools
+MA0033928,,,1622,"Bridge, Tunnel, & Elevated Highway"
+MA0033987,485111,Mixed Mode Transit Systems,4111,Local And Suburban Transit
+MA0034843,,,4911,Electric Services
+MA0034851,,,4911,Electric Services
+MA0034860,,,4911,Electric Services
+MA0034878,,,4911,Electric Services
+MA0034886,,,4911,Electric Services
+MA0034894,,,4911,Electric Services
+MA0034908,,,4911,Electric Services
+MA0034916,,,5541,Gasoline Service Stations
+MA0035254,,,5541,Gasoline Service Stations
+MA0035521,,,4911,Electric Services
+MA0035530,,,4911,Electric Services
+MA0035556,,,4911,Electric Services
+MA0035564,,,4911,Electric Services
+MA0035670,,,4911,Electric Services
+MA0035777,,,4911,Electric Services
+MA0035815,,,4911,Electric Services
+MA0035823,,,4911,Electric Services
+MA0035831,,,4911,Electric Services
+MA0035866,,,4911,Electric Services
+MA0035874,,,4911,Electric Services
+MA0035882,,,4911,Electric Services
+MA0036366,,,2834,Pharmaceutical Preparations
+MA0036463,,,2992,Lubricating Oils And Greases
+MA0036781,,,1611,Highway And Street Construction
+MA0039853,,,4952,Sewerage Systems
+MA0040134,,,4941,Water Supply
+MA0040142,,,3731,Ship Building And Repairing
+MA0040177,,,1429,Crushed And Broken Stone
+MA0040193,,,4941,Water Supply
+MA0040207,,,0182,Food Crops Grown Under Cover
+MA0040215,,,5146,Fish And Seafoods
+MA0040223,,,1442,Construction Sand And Gravel
+MA0040231,,,3089,Plastics Products
+MA0040240,,,4924,Natural Gas Distribution
+MA0040258,,,3533,Oil And Gas Field Machinery
+MA0040266,,,4491,Marine Cargo Handling
+MA0040282,,,7948,"Racing, Including Track Operation"
+MA0040291,,,2834,Pharmaceutical Preparations
+MA0040304,,,8221,Colleges And Universities
+MA0040312,,,1442,Construction Sand And Gravel
+MA0040321,325412,Pharmaceutical Preparation Manufacturing,2834,Pharmaceutical Preparations
+MA0040339,,,3089,Plastics Products
+MA0040355,,,3674,Semiconductors And Related Devices
+MA0040363,,,4941,Water Supply
+MA0040371,,,4911,Electric Services
+MA0040380,,,8422,Botanical And Zoological Gardens
+MA0040398,,,4941,Water Supply
+MA0040410,,,4941,Water Supply
+MA0040436,,,1422,Crushed And Broken Limestone
+MA0040482,221310,Water Supply and Irrigation Systems,4941,Water Supply
+MA0040483,,,2086,Bottled And Canned Soft Drinks
+MA0040487,,,3761,Guided Missiles And Space Vehicles
+MA0044996,322121,Paper [Except Newsprint] Mills,2621,Paper Mills
+MA0044998,,,2086,Bottled And Canned Soft Drinks
+MA0090433,,,9621,"Regulation, Administration Of Transportation"
+MA0090492,,,9621,"Regulation, Administration Of Transportation"
+MA0090531,,,9621,"Regulation, Administration Of Transportation"
+MA0090590,,,9621,"Regulation, Administration Of Transportation"
+MA0090671,,,3731,Ship Building And Repairing
+MA0090808,,,9531,Housing Programs
+MA0100005,,,4952,Sewerage Systems
+MA0100013,,,4952,Sewerage Systems
+MA0100030,,,4952,Sewerage Systems
+MA0100064,,,4952,Sewerage Systems
+MA0100081,,,4952,Sewerage Systems
+MA0100099,,,4952,Sewerage Systems
+MA0100102,,,4952,Sewerage Systems
+MA0100137,,,4952,Sewerage Systems
+MA0100145,,,4952,Sewerage Systems
+MA0100153,,,4952,Sewerage Systems
+MA0100161,,,4952,Sewerage Systems
+MA0100170,,,4952,Sewerage Systems
+MA0100188,,,4952,Sewerage Systems
+MA0100196,,,4952,Sewerage Systems
+MA0100200,,,4952,Sewerage Systems
+MA0100218,,,4952,Sewerage Systems
+MA0100285,,,4952,Sewerage Systems
+MA0100315,,,4952,Sewerage Systems
+MA0100340,,,4952,Sewerage Systems
+MA0100374,,,4952,Sewerage Systems
+MA0100382,,,4952,Sewerage Systems
+MA0100404,,,4952,Sewerage Systems
+MA0100412,,,4952,Sewerage Systems
+MA0100421,,,4952,Sewerage Systems
+MA0100439,,,4952,Sewerage Systems
+MA0100447,,,4952,Sewerage Systems
+MA0100455,,,4952,Sewerage Systems
+MA0100480,,,4952,Sewerage Systems
+MA0100498,,,4952,Sewerage Systems
+MA0100501,,,4952,Sewerage Systems
+MA0100510,,,4952,Sewerage Systems
+MA0100536,,,4952,Sewerage Systems
+MA0100552,,,4952,Sewerage Systems
+MA0100579,,,4952,Sewerage Systems
+MA0100587,,,4952,Sewerage Systems
+MA0100595,,,4952,Sewerage Systems
+MA0100609,,,4952,Sewerage Systems
+MA0100617,,,4952,Sewerage Systems
+MA0100625,,,4952,Sewerage Systems
+MA0100633,,,4952,Sewerage Systems
+MA0100641,,,4952,Sewerage Systems
+MA0100668,,,4952,Sewerage Systems
+MA0100676,,,4952,Sewerage Systems
+MA0100722,,,4952,Sewerage Systems
+MA0100765,,,4952,Sewerage Systems
+MA0100781,,,4952,Sewerage Systems
+MA0100862,,,4952,Sewerage Systems
+MA0100871,,,4952,Sewerage Systems
+MA0100889,,,4952,Sewerage Systems
+MA0100897,,,4952,Sewerage Systems
+MA0100901,,,4952,Sewerage Systems
+MA0100919,,,4952,Sewerage Systems
+MA0100935,,,4952,Sewerage Systems
+MA0100960,,,4952,Sewerage Systems
+MA0100978,,,4952,Sewerage Systems
+MA0100986,,,4952,Sewerage Systems
+MA0100994,,,4952,Sewerage Systems
+MA0101001,,,4952,Sewerage Systems
+MA0101010,,,4952,Sewerage Systems
+MA0101036,,,4952,Sewerage Systems
+MA0101044,,,4952,Sewerage Systems
+MA0101052,,,4952,Sewerage Systems
+MA0101061,,,4952,Sewerage Systems
+MA0101079,,,4952,Sewerage Systems
+MA0101087,,,4952,Sewerage Systems
+MA0101095,,,4952,Sewerage Systems
+MA0101141,,,4952,Sewerage Systems
+MA0101150,,,4952,Sewerage Systems
+MA0101168,,,4952,Sewerage Systems
+MA0101192,,,4952,Sewerage Systems
+MA0101214,,,4952,Sewerage Systems
+MA0101231,,,4952,Sewerage Systems
+MA0101257,,,4952,Sewerage Systems
+MA0101265,,,4952,Sewerage Systems
+MA0101281,,,4952,Sewerage Systems
+MA0101290,,,4952,Sewerage Systems
+MA0101311,,,4952,Sewerage Systems
+MA0101338,,,4952,Sewerage Systems
+MA0101427,,,4952,Sewerage Systems
+MA0101478,,,4952,Sewerage Systems
+MA0101508,,,4952,Sewerage Systems
+MA0101516,,,4952,Sewerage Systems
+MA0101524,,,4952,Sewerage Systems
+MA0101567,,,4952,Sewerage Systems
+MA0101591,,,4952,Sewerage Systems
+MA0101605,,,4952,Sewerage Systems
+MA0101613,,,4952,Sewerage Systems
+MA0101621,,,4952,Sewerage Systems
+MA0101630,,,4952,Sewerage Systems
+MA0101648,,,4952,Sewerage Systems
+MA0101656,,,8211,Elementary And Secondary Schools
+MA0101681,,,4952,Sewerage Systems
+MA0101702,,,4952,Sewerage Systems
+MA0101711,,,4952,Sewerage Systems
+MA0101737,,,4952,Sewerage Systems
+MA0101745,,,4952,Sewerage Systems
+MA0101753,,,8211,Elementary And Secondary Schools
+MA0101788,,,4952,Sewerage Systems
+MA0101796,,,4952,Sewerage Systems
+MA0101800,,,4952,Sewerage Systems
+MA0101818,,,4952,Sewerage Systems
+MA0101877,,,4952,Sewerage Systems
+MA0101893,,,4952,Sewerage Systems
+MA0101923,,,4952,Sewerage Systems
+MA0101940,,,4952,Sewerage Systems
+MA0101974,,,4952,Sewerage Systems
+MA0101982,,,4952,Sewerage Systems
+MA0102061,,,8211,Elementary And Secondary Schools
+MA0102113,,,8211,Elementary And Secondary Schools
+MA0102148,,,4952,Sewerage Systems
+MA0102156,,,8211,Elementary And Secondary Schools
+MA0102202,,,4952,Sewerage Systems
+MA0102237,,,4952,Sewerage Systems
+MA0102245,,,9223,Correctional Institutions
+MA0102253,,,4952,Sewerage Systems
+MA0102369,,,4952,Sewerage Systems
+MA0102431,,,4952,Sewerage Systems
+MA0102440,,,4952,Sewerage Systems
+MA0102466,,,4952,Sewerage Systems
+MA0102563,,,9223,Correctional Institutions
+MA0102598,,,4952,Sewerage Systems
+MA0102610,,,4941,Water Supply
+MA0102695,,,4952,Sewerage Systems
+MA0102776,,,4952,Sewerage Systems
+MA0102792,,,4952,Sewerage Systems
+MA0102873,,,4952,Sewerage Systems
+MA0102997,,,4952,Sewerage Systems
+MA0103101,,,4952,Sewerage Systems
+MA0103110,,,4952,Sewerage Systems
+MA0103152,,,4952,Sewerage Systems
+MA0103233,,,4952,Sewerage Systems
+MA0103284,,,4952,Sewerage Systems
+MA0103331,,,4952,Sewerage Systems
+MA0103390,,,4941,Water Supply
+MA0110027,,,0921,Fish Hatcheries And Preserves
+MA0110035,,,0921,Fish Hatcheries And Preserves
+MA0110043,,,0921,Fish Hatcheries And Preserves
+MA0110051,,,0921,Fish Hatcheries And Preserves
+MA0110264,112511,Finfish Farming and Fish Hatcheries,0921,Fish Hatcheries And Preserves
+MA0110281,,,0273,Animal Aquaculture
+MA0110329,,,0273,Animal Aquaculture
+MAC011168,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MAG070013,,,4941,Water Supply
+MAG070016,,,4952,Sewerage Systems
+MAG070020,,,4941,Water Supply
+MAG070021,,,4952,Sewerage Systems
+MAG070024,,,1623,"Water, Sewer, And Utility Lines"
+MAG070028,,,4953,Refuse Systems
+MAG070054,,,4952,Sewerage Systems
+MAG070069,,,4941,Water Supply
+MAG070072,,,8221,Colleges And Universities
+MAG070080,,,4911,Electric Services
+MAG070087,,,4941,Water Supply
+MAG070088,,,4941,Water Supply
+MAG070094,,,8221,Colleges And Universities
+MAG070095,,,7011,Hotels And Motels
+MAG070135,,,4952,Sewerage Systems
+MAG070136,,,4952,Sewerage Systems
+MAG070139,,,4952,Sewerage Systems
+MAG070141,,,4952,Sewerage Systems
+MAG070143,,,4952,Sewerage Systems
+MAG070147,,,4952,Sewerage Systems
+MAG070150,,,4941,Water Supply
+MAG070153,,,4941,Water Supply
+MAG070154,,,4941,Water Supply
+MAG070175,,,4952,Sewerage Systems
+MAG070181,,,4941,Water Supply
+MAG070182,,,4952,Sewerage Systems
+MAG070185,,,1521,Single-Family Housing Construction
+MAG070192,,,4952,Sewerage Systems
+MAG070193,,,4952,Sewerage Systems
+MAG070196,,,1623,"Water, Sewer, And Utility Lines"
+MAG070197,,,4952,Sewerage Systems
+MAG070198,,,4952,Sewerage Systems
+MAG070199,,,1623,"Water, Sewer, And Utility Lines"
+MAG070207,,,9511,"Air, Water, & Solid Waste Management"
+MAG070214,,,9511,"Air, Water, & Solid Waste Management"
+MAG070215,,,9711,National Security
+MAG070225,,,1623,"Water, Sewer, And Utility Lines"
+MAG070227,,,4941,Water Supply
+MAG070229,,,1629,Heavy Construction
+MAG070235,,,1623,"Water, Sewer, And Utility Lines"
+MAG070236,,,4941,Water Supply
+MAG070238,,,4941,Water Supply
+MAG070250,,,1522,Residential Construction
+MAG070251,,,1623,"Water, Sewer, And Utility Lines"
+MAG070253,,,1623,"Water, Sewer, And Utility Lines"
+MAG070268,,,4941,Water Supply
+MAG070286,,,4941,Water Supply
+MAG070380,,,8221,Colleges And Universities
+MAG070381,,,8062,General Medical & Surgical Hospitals
+MAG070402,,,6531,Real Estate Agents And Managers
+MAG070404,,,8741,Management Services
+MAG070405,,,0175,Deciduous Tree Fruits
+MAG070434,,,5541,Gasoline Service Stations
+MAG130001,112511,Finfish Farming and Fish Hatcheries,0921,Fish Hatcheries And Preserves
+MAG130002,112511,Finfish Farming and Fish Hatcheries,0921,Fish Hatcheries And Preserves
+MAG130003,112511,Finfish Farming and Fish Hatcheries,0921,Fish Hatcheries And Preserves
+MAG130004,112511,Finfish Farming and Fish Hatcheries,0921,Fish Hatcheries And Preserves
+MAG130005,112511,Finfish Farming and Fish Hatcheries,0921,Fish Hatcheries And Preserves
+MAG250003,,,3229,Pressed And Blown Glass
+MAG250004,,,8221,Colleges And Universities
+MAG250005,,,4111,Local And Suburban Transit
+MAG250006,,,2295,"Coated Fabrics, Not Rubberized"
+MAG250008,,,4941,Water Supply
+MAG250009,,,6513,Apartment Building Operators
+MAG250010,,,3961,Costume Jewelry
+MAG250011,,,2295,"Coated Fabrics, Not Rubberized"
+MAG250016,,,2893,Printing Ink
+MAG250017,,,3544,"Special Dies, Tools, Jigs & Fixtures"
+MAG250018,,,6513,Apartment Building Operators
+MAG250019,,,8221,Colleges And Universities
+MAG250020,,,6512,Nonresidential Building Operators
+MAG250021,,,3829,Measuring & Controlling Devices
+MAG250023,,,2899,Chemical Preparations
+MAG250024,,,3423,Hand And Edge Tools
+MAG250025,,,4911,Electric Services
+MAG250026,,,2077,Animal And Marine Fats And Oils
+MAG250027,,,3089,Plastics Products
+MAG250029,,,3842,Surgical Appliances And Supplies
+MAG250030,,,3679,Electronic Components
+MAG250031,,,2399,Fabricated Textile Products
+MAG250033,,,2671,"Paper Coated & Laminated, Packaging"
+MAG250034,,,6361,Title Insurance
+MAG250035,,,9711,National Security
+MAG250036,,,2092,Fresh Or Frozen Prepared Fish
+MAG250037,,,3679,Electronic Components
+MAG250121,,,3086,Plastics Foam Products
+MAG250163,,,4911,Electric Services
+MAG250244,,,2893,Printing Ink
+MAG250287,,,2824,"Organic Fibers, Noncellulosic"
+MAG250333,,,3479,Metal Coating And Allied Services
+MAG250431,,,3494,Valves And Pipe Fittings
+MAG250520,,,3671,Electron Tubes
+MAG250554,,,2844,Toilet Preparations
+MAG250821,,,2621,Paper Mills
+MAG250830,,,2893,Printing Ink
+MAG250856,,,2671,"Paper Coated & Laminated, Packaging"
+MAG250872,,,2672,Paper Coated And Laminated
+MAG250881,,,2671,"Paper Coated & Laminated, Packaging"
+MAG250911,,,3221,Glass Containers
+MAG250945,,,2796,Platemaking Services
+MAG250946,,,3799,Transportation Equipment
+MAG250947,,,3462,Iron And Steel Forgings
+MAG250948,,,4911,Electric Services
+MAG250949,,,4911,Electric Services
+MAG250950,,,4911,Electric Services
+MAG250954,,,2033,Canned Fruits And Vegetables
+MAG250955,,,2621,Paper Mills
+MAG250956,,,2621,Paper Mills
+MAG250957,,,2099,Food Preparations
+MAG250958,,,2851,Paints And Allied Products
+MAG250961,,,2631,Paperboard Mills
+MAG250962,,,3261,Vitreous Plumbing Fixtures
+MAG250965,,,3499,Fabricated Metal Products
+MAG250966,,,2621,Paper Mills
+MAG250968,,,2672,Paper Coated And Laminated
+MAG250969,,,2295,"Coated Fabrics, Not Rubberized"
+MAG250978,,,5039,Construction Materials
+MAG250982,,,2821,Plastics Materials And Resins
+MAG250983,,,2671,"Paper Coated & Laminated, Packaging"
+MAG250985,,,4941,Water Supply
+MAG360001,,,4941,Water Supply
+MAG360002,,,4941,Water Supply
+MAG360003,,,4911,Electric Services
+MAG360004,,,4911,Electric Services
+MAG360005,,,4911,Electric Services
+MAG360006,,,4911,Electric Services
+MAG360007,,,4911,Electric Services
+MAG360008,,,4911,Electric Services
+MAG360009,,,4911,Electric Services
+MAG360010,,,4911,Electric Services
+MAG360011,,,4911,Electric Services
+MAG360012,,,4911,Electric Services
+MAG360013,,,4911,Electric Services
+MAG360014,,,4911,Electric Services
+MAG360015,,,4911,Electric Services
+MAG360016,,,4911,Electric Services
+MAG360017,,,4911,Electric Services
+MAG360018,,,4911,Electric Services
+MAG360019,,,4911,Electric Services
+MAG360020,,,4911,Electric Services
+MAG360021,,,4911,Electric Services
+MAG360022,,,4911,Electric Services
+MAG360023,,,4911,Electric Services
+MAG360024,,,4911,Electric Services
+MAG360026,,,4911,Electric Services
+MAG360028,,,4911,Electric Services
+MAG360029,,,4911,Electric Services
+MAG450001,,,2833,Medicinals And Botanicals
+MAG450003,,,3089,Plastics Products
+MAG450004,,,3674,Semiconductors And Related Devices
+MAG580043,,,4952,Sewerage Systems
+MAG590007,,,4952,Sewerage Systems
+MAG590038,,,4952,Sewerage Systems
+MAG590042,,,3441,Fabricated Structural Metal
+MAG640001,,,4941,Water Supply
+MAG640002,,,4941,Water Supply
+MAG640003,,,4941,Water Supply
+MAG640004,,,4941,Water Supply
+MAG640005,,,4941,Water Supply
+MAG640006,,,4941,Water Supply
+MAG640007,,,4941,Water Supply
+MAG640008,,,4941,Water Supply
+MAG640009,,,4941,Water Supply
+MAG640010,,,4941,Water Supply
+MAG640012,,,4941,Water Supply
+MAG640013,,,4941,Water Supply
+MAG640014,,,4941,Water Supply
+MAG640015,,,4941,Water Supply
+MAG640016,,,4941,Water Supply
+MAG640017,,,4941,Water Supply
+MAG640018,,,4941,Water Supply
+MAG640019,,,4941,Water Supply
+MAG640020,,,4941,Water Supply
+MAG640021,,,4941,Water Supply
+MAG640022,,,4941,Water Supply
+MAG640023,,,4941,Water Supply
+MAG640025,,,4941,Water Supply
+MAG640028,,,4941,Water Supply
+MAG640029,,,4941,Water Supply
+MAG640030,,,4941,Water Supply
+MAG640031,,,4941,Water Supply
+MAG640032,,,4941,Water Supply
+MAG640033,,,4941,Water Supply
+MAG640034,,,4941,Water Supply
+MAG640035,,,4941,Water Supply
+MAG640037,,,4941,Water Supply
+MAG640038,,,4941,Water Supply
+MAG640039,,,4911,Electric Services
+MAG640040,,,4941,Water Supply
+MAG640041,,,4941,Water Supply
+MAG640043,,,4941,Water Supply
+MAG640044,,,4911,Electric Services
+MAG640045,,,4941,Water Supply
+MAG640046,,,4941,Water Supply
+MAG640047,,,4941,Water Supply
+MAG640048,,,4941,Water Supply
+MAG640049,,,4941,Water Supply
+MAG640050,,,4941,Water Supply
+MAG640051,,,4941,Water Supply
+MAG640052,,,4941,Water Supply
+MAG640054,,,4941,Water Supply
+MAG640055,,,4941,Water Supply
+MAG640056,,,4941,Water Supply
+MAG640057,,,4941,Water Supply
+MAG640058,,,4941,Water Supply
+MAG640059,,,4941,Water Supply
+MAG640061,,,4941,Water Supply
+MAG640062,,,4941,Water Supply
+MAG640063,,,4941,Water Supply
+MAG640064,,,4941,Water Supply
+MAG640065,,,4941,Water Supply
+MAG640066,,,4941,Water Supply
+MAG640067,,,4941,Water Supply
+MAG640068,,,4941,Water Supply
+MAG640069,,,4941,Water Supply
+MAG640070,,,4941,Water Supply
+MAG640071,,,4941,Water Supply
+MAG640072,,,4941,Water Supply
+MAG640073,,,4941,Water Supply
+MAG640074,,,4941,Water Supply
+MAG640075,,,4941,Water Supply
+MAG640077,,,4941,Water Supply
+MAG640078,,,4941,Water Supply
+MAG640079,,,4941,Water Supply
+MAG640080,,,4941,Water Supply
+MAG640081,,,4941,Water Supply
+MAG640082,,,4941,Water Supply
+MAG640085,,,4941,Water Supply
+MAG910039,,,5541,Gasoline Service Stations
+MAG912000,562910,Remediation Services,4959,Sanitary Services
+MAG912001,562910,Remediation Services,4959,Sanitary Services
+MAG912002,562910,Remediation Services,4959,Sanitary Services
+MAG912003,562910,Remediation Services,4959,Sanitary Services
+MAG912004,562910,Remediation Services,4959,Sanitary Services
+MAG912005,562910,Remediation Services,4959,Sanitary Services
+MAG912006,562910,Remediation Services,4959,Sanitary Services
+MAG912007,562910,Remediation Services,4959,Sanitary Services
+MAG912008,562910,Remediation Services,4959,Sanitary Services
+MAG912009,562910,Remediation Services,4959,Sanitary Services
+MAG912011,562910,Remediation Services,4959,Sanitary Services
+MAG912012,562910,Remediation Services,4959,Sanitary Services
+MAG912013,562910,Remediation Services,4959,Sanitary Services
+MAG912014,562910,Remediation Services,4959,Sanitary Services
+MAG912015,562910,Remediation Services,4959,Sanitary Services
+MAG912016,562910,Remediation Services,4959,Sanitary Services
+MAG912017,562910,Remediation Services,4959,Sanitary Services
+MAG912019,562910,Remediation Services,4959,Sanitary Services
+MAG912020,562910,Remediation Services,4959,Sanitary Services
+MAG912021,562910,Remediation Services,4959,Sanitary Services
+MAG912023,562910,Remediation Services,4959,Sanitary Services
+MAG912024,562910,Remediation Services,4959,Sanitary Services
+MAG912025,562910,Remediation Services,4959,Sanitary Services
+MAG912026,562910,Remediation Services,4959,Sanitary Services
+MAG912027,562910,Remediation Services,4959,Sanitary Services
+MAG912028,562910,Remediation Services,4959,Sanitary Services
+MAG912029,562910,Remediation Services,4959,Sanitary Services
+MAG912030,562910,Remediation Services,4959,Sanitary Services
+MAG912031,562910,Remediation Services,4959,Sanitary Services
+MAG912032,562910,Remediation Services,4959,Sanitary Services
+MAG912033,562910,Remediation Services,4959,Sanitary Services
+MAG912034,562910,Remediation Services,4959,Sanitary Services
+MAG912035,562910,Remediation Services,4959,Sanitary Services
+MAG912036,562910,Remediation Services,4959,Sanitary Services
+MAG912038,562910,Remediation Services,4959,Sanitary Services
+MAG912039,562910,Remediation Services,4959,Sanitary Services
+MAG912040,562910,Remediation Services,4959,Sanitary Services
+MAG912043,562910,Remediation Services,4959,Sanitary Services
+MAG912044,562910,Remediation Services,4959,Sanitary Services
+MAG912045,562910,Remediation Services,4959,Sanitary Services
+MAG912051,562910,Remediation Services,4959,Sanitary Services
+MAG912052,562910,Remediation Services,4959,Sanitary Services
+MAG912053,562910,Remediation Services,4959,Sanitary Services
+MAG912054,562910,Remediation Services,4959,Sanitary Services
+MAG912056,562910,Remediation Services,4959,Sanitary Services
+MAG912059,562910,Remediation Services,4959,Sanitary Services
+MAG912061,562910,Remediation Services,4959,Sanitary Services
+MAG912062,562910,Remediation Services,4959,Sanitary Services
+MAG912063,562910,Remediation Services,4959,Sanitary Services
+MAG912064,562910,Remediation Services,4959,Sanitary Services
+MAG912065,562910,Remediation Services,4959,Sanitary Services
+MAG912066,562910,Remediation Services,4959,Sanitary Services
+MAG912067,562910,Remediation Services,4959,Sanitary Services
+MAG912068,562910,Remediation Services,4959,Sanitary Services
+MAG912069,562910,Remediation Services,4959,Sanitary Services
+MAG912070,562910,Remediation Services,4959,Sanitary Services
+MAG912071,562910,Remediation Services,4959,Sanitary Services
+MAG912075,562910,Remediation Services,4959,Sanitary Services
+MAG912076,562910,Remediation Services,4959,Sanitary Services
+MAG912077,562910,Remediation Services,4959,Sanitary Services
+MAG912078,562910,Remediation Services,4959,Sanitary Services
+MAG912079,562910,Remediation Services,4959,Sanitary Services
+MAG912080,562910,Remediation Services,4959,Sanitary Services
+MAG912082,562910,Remediation Services,4959,Sanitary Services
+MAG912083,562910,Remediation Services,4959,Sanitary Services
+MAG912084,562910,Remediation Services,4959,Sanitary Services
+MAG912085,562910,Remediation Services,4959,Sanitary Services
+MAG912086,562910,Remediation Services,4959,Sanitary Services
+MAG912087,562910,Remediation Services,4959,Sanitary Services
+MAG912088,562910,Remediation Services,4959,Sanitary Services
+MAG912089,562910,Remediation Services,4959,Sanitary Services
+MAG912090,562910,Remediation Services,4959,Sanitary Services
+MAG912091,562910,Remediation Services,4959,Sanitary Services
+MAG912092,562910,Remediation Services,4959,Sanitary Services
+MAG912093,562910,Remediation Services,4959,Sanitary Services
+MAG912094,562910,Remediation Services,4959,Sanitary Services
+MAG912095,562910,Remediation Services,4959,Sanitary Services
+MAG912096,562910,Remediation Services,4959,Sanitary Services
+MAG912097,562910,Remediation Services,4959,Sanitary Services
+MAG912098,562910,Remediation Services,4959,Sanitary Services
+MAG912099,562910,Remediation Services,4959,Sanitary Services
+MAG912100,562910,Remediation Services,4959,Sanitary Services
+MAG912101,562910,Remediation Services,4959,Sanitary Services
+MAG912102,562910,Remediation Services,4959,Sanitary Services
+MAG912103,562910,Remediation Services,4959,Sanitary Services
+MAG912104,562910,Remediation Services,4959,Sanitary Services
+MAG912105,562910,Remediation Services,4959,Sanitary Services
+MAG912107,562910,Remediation Services,4959,Sanitary Services
+MAG912108,562910,Remediation Services,4959,Sanitary Services
+MAG912109,562910,Remediation Services,4959,Sanitary Services
+MAG912110,562910,Remediation Services,4959,Sanitary Services
+MAG912111,562910,Remediation Services,4959,Sanitary Services
+MAG912112,562910,Remediation Services,4959,Sanitary Services
+MAG912113,562910,Remediation Services,4959,Sanitary Services
+MAG912114,562910,Remediation Services,4959,Sanitary Services
+MAG912115,562910,Remediation Services,4959,Sanitary Services
+MAG912116,562910,Remediation Services,4959,Sanitary Services
+MAG912117,562910,Remediation Services,4959,Sanitary Services
+MAG912118,562910,Remediation Services,4959,Sanitary Services
+MAG912119,562910,Remediation Services,4959,Sanitary Services
+MAG912120,562910,Remediation Services,4959,Sanitary Services
+MAG912121,562910,Remediation Services,4959,Sanitary Services
+MAG912123,562910,Remediation Services,4959,Sanitary Services
+MAG912124,562910,Remediation Services,4959,Sanitary Services
+MAG912125,562910,Remediation Services,4959,Sanitary Services
+MAG912126,562910,Remediation Services,4959,Sanitary Services
+MAG912127,562910,Remediation Services,4959,Sanitary Services
+MAG912128,562910,Remediation Services,4959,Sanitary Services
+MAG912130,562910,Remediation Services,4959,Sanitary Services
+MAG912131,562910,Remediation Services,4959,Sanitary Services
+MAG912132,562910,Remediation Services,4959,Sanitary Services
+MAG912133,562910,Remediation Services,4959,Sanitary Services
+MAG912134,562910,Remediation Services,4959,Sanitary Services
+MAG912136,562910,Remediation Services,4959,Sanitary Services
+MAG912137,562910,Remediation Services,4959,Sanitary Services
+MAG912138,562910,Remediation Services,4959,Sanitary Services
+MAG912139,562910,Remediation Services,4959,Sanitary Services
+MAG912140,562910,Remediation Services,4959,Sanitary Services
+MAG912141,562910,Remediation Services,4959,Sanitary Services
+MAG912142,562910,Remediation Services,4959,Sanitary Services
+MAG912143,562910,Remediation Services,4959,Sanitary Services
+MAG912144,562910,Remediation Services,4959,Sanitary Services
+MAG912145,562910,Remediation Services,4959,Sanitary Services
+MAG912146,562910,Remediation Services,4959,Sanitary Services
+MAG912147,562910,Remediation Services,4959,Sanitary Services
+MAG912148,562910,Remediation Services,4959,Sanitary Services
+MAG912149,562910,Remediation Services,4959,Sanitary Services
+MAG912150,562910,Remediation Services,4959,Sanitary Services
+MAG912151,562910,Remediation Services,4959,Sanitary Services
+MAG912152,562910,Remediation Services,4959,Sanitary Services
+MAG912153,562910,Remediation Services,4959,Sanitary Services
+MAG912154,562910,Remediation Services,4959,Sanitary Services
+MAG912155,562910,Remediation Services,4959,Sanitary Services
+MAG912156,562910,Remediation Services,4959,Sanitary Services
+MAG912157,562910,Remediation Services,4959,Sanitary Services
+MAG912158,562910,Remediation Services,4959,Sanitary Services
+MAG912159,562910,Remediation Services,4959,Sanitary Services
+MAG912160,562910,Remediation Services,4959,Sanitary Services
+MAG912161,562910,Remediation Services,4959,Sanitary Services
+MAG912162,562910,Remediation Services,4959,Sanitary Services
+MAG912163,562910,Remediation Services,4959,Sanitary Services
+MAG912164,562910,Remediation Services,4959,Sanitary Services
+MAG912165,562910,Remediation Services,4959,Sanitary Services
+MAG912166,562910,Remediation Services,4959,Sanitary Services
+MAG912168,562910,Remediation Services,4959,Sanitary Services
+MAG912169,562910,Remediation Services,4959,Sanitary Services
+MAG912170,562910,Remediation Services,4959,Sanitary Services
+MAG912172,562910,Remediation Services,4959,Sanitary Services
+MAG912173,562910,Remediation Services,4959,Sanitary Services
+MAG912174,562910,Remediation Services,4959,Sanitary Services
+MAG912175,562910,Remediation Services,4959,Sanitary Services
+MAG912176,562910,Remediation Services,4959,Sanitary Services
+MAG912177,562910,Remediation Services,4959,Sanitary Services
+MAG912178,562910,Remediation Services,4959,Sanitary Services
+MAG912179,562910,Remediation Services,4959,Sanitary Services
+MAG912180,562910,Remediation Services,4959,Sanitary Services
+MAG912181,562910,Remediation Services,4959,Sanitary Services
+MAG912182,562910,Remediation Services,4959,Sanitary Services
+MAG912183,562910,Remediation Services,4959,Sanitary Services
+MAG912184,562910,Remediation Services,4959,Sanitary Services
+MAG912185,562910,Remediation Services,4959,Sanitary Services
+MAG912187,562910,Remediation Services,4959,Sanitary Services
+MAG912188,562910,Remediation Services,4959,Sanitary Services
+MAG912189,562910,Remediation Services,4959,Sanitary Services
+MAG912190,562910,Remediation Services,4959,Sanitary Services
+MAG912191,562910,Remediation Services,4959,Sanitary Services
+MAG912192,562910,Remediation Services,4959,Sanitary Services
+MAG912193,562910,Remediation Services,4959,Sanitary Services
+MAG912194,562910,Remediation Services,4959,Sanitary Services
+MAG912195,562910,Remediation Services,4959,Sanitary Services
+MAG912198,562910,Remediation Services,4959,Sanitary Services
+MAG912199,562910,Remediation Services,4959,Sanitary Services
+MAG912201,562910,Remediation Services,4959,Sanitary Services
+MAG912202,562910,Remediation Services,4959,Sanitary Services
+MAG912205,562910,Remediation Services,4959,Sanitary Services
+MAG912209,562910,Remediation Services,4959,Sanitary Services
+MAG912210,562910,Remediation Services,4959,Sanitary Services
+MAG912211,562910,Remediation Services,4959,Sanitary Services
+MAG912212,562910,Remediation Services,4959,Sanitary Services
+MAG912213,562910,Remediation Services,4959,Sanitary Services
+MAG912214,562910,Remediation Services,4959,Sanitary Services
+MAG912216,562910,Remediation Services,4959,Sanitary Services
+MAG912222,562910,Remediation Services,4959,Sanitary Services
+MAG912224,562910,Remediation Services,4959,Sanitary Services
+MAG912226,562910,Remediation Services,4959,Sanitary Services
+MAG912227,562910,Remediation Services,4959,Sanitary Services
+MAG912228,562910,Remediation Services,4959,Sanitary Services
+MAG912229,562910,Remediation Services,4959,Sanitary Services
+MAG912231,562910,Remediation Services,4959,Sanitary Services
+MAG912232,562910,Remediation Services,4959,Sanitary Services
+MAG912233,562910,Remediation Services,4959,Sanitary Services
+MAG912235,562910,Remediation Services,4959,Sanitary Services
+MAG912236,562910,Remediation Services,4959,Sanitary Services
+MAG912237,562910,Remediation Services,4959,Sanitary Services
+MAG912238,562910,Remediation Services,4959,Sanitary Services
+MAG912239,562910,Remediation Services,4959,Sanitary Services
+MAG912241,562910,Remediation Services,4959,Sanitary Services
+MAG912243,562910,Remediation Services,4959,Sanitary Services
+MAG912245,562910,Remediation Services,4959,Sanitary Services
+MAG912246,562910,Remediation Services,4959,Sanitary Services
+MAG912247,562910,Remediation Services,4959,Sanitary Services
+MAG912248,562910,Remediation Services,4959,Sanitary Services
+MAG912249,562910,Remediation Services,4959,Sanitary Services
+MAG912250,562910,Remediation Services,4959,Sanitary Services
+MAG912251,562910,Remediation Services,4959,Sanitary Services
+MAG912254,562910,Remediation Services,4959,Sanitary Services
+MAG912256,562910,Remediation Services,4959,Sanitary Services
+MAG912257,562910,Remediation Services,4959,Sanitary Services
+MAG912258,562910,Remediation Services,4959,Sanitary Services
+MAG912259,562910,Remediation Services,4959,Sanitary Services
+MAG912260,562910,Remediation Services,4959,Sanitary Services
+MAG912262,562910,Remediation Services,4959,Sanitary Services
+MAG912263,562910,Remediation Services,4959,Sanitary Services
+MAG912264,562910,Remediation Services,4959,Sanitary Services
+MAG912265,562910,Remediation Services,4959,Sanitary Services
+MAG912266,562910,Remediation Services,4959,Sanitary Services
+MAG912267,562910,Remediation Services,4959,Sanitary Services
+MAG912271,562910,Remediation Services,4959,Sanitary Services
+MAG912272,562910,Remediation Services,4959,Sanitary Services
+MAG912273,562910,Remediation Services,4959,Sanitary Services
+MAG912274,562910,Remediation Services,4959,Sanitary Services
+MAG912275,562910,Remediation Services,4959,Sanitary Services
+MAG912276,562910,Remediation Services,4959,Sanitary Services
+MAG912277,562910,Remediation Services,4959,Sanitary Services
+MAG912278,562910,Remediation Services,4959,Sanitary Services
+MAL000002,,,4952,Sewerage Systems
+MAL102431,,,4952,Sewerage Systems
+MAL900001,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MAL900002,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MAL900003,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MAL900004,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MANOE2000,,,2295,"Coated Fabrics, Not Rubberized"
+MANOE2001,,,4231,Trucking Terminal Facilities
+MANOE2002,,,3089,Plastics Products
+MANOE2003,,,8999,Services
+MANOE2004,,,2759,Commercial Printing
+MANOE2005,,,3357,Nonferrous Wiredrawing & Insulating
+MANOE2006,,,3823,Process Control Instruments
+MANOE2007,,,3823,Process Control Instruments
+MANOE2008,,,2024,Ice Cream And Frozen Desserts
+MANOE2009,,,3679,Electronic Components
+MANOE2010,,,3829,Measuring & Controlling Devices
+MANOE2011,,,3851,Ophthalmic Goods - Manufacturing
+MANOE2012,,,4121,Taxicabs
+MANOE2013,,,3827,Optical Instruments And Lenses
+MANOE2014,,,3827,Optical Instruments And Lenses
+MANOE2015,,,3827,Optical Instruments And Lenses
+MANOE2017,,,3053,"Gaskets, Packing And Sealing Devices"
+MANOE2018,,,3678,Electronic Connectors
+MANOE2020,,,2834,Pharmaceutical Preparations
+MANOE2021,,,3674,Semiconductors And Related Devices
+MANOE2022,,,2711,Newspapers
+MANOE2023,,,8731,Commercial Physical Research
+MANOE2025,,,2834,Pharmaceutical Preparations
+MANOE2026,,,2759,Commercial Printing
+MANOE2027,,,3559,Special Industry Machinery
+MANOE3000,,,2052,Cookies And Crackers
+MANOE3001,,,3643,Current-Carrying Wiring Devices
+MANOE3004,,,3842,Surgical Appliances And Supplies
+MANOE3005,,,5093,Scrap And Waste Materials
+MANOE3006,,,2098,"Macaroni, Spagh, Vermi, Noodl"
+MANOE3007,,,3499,Fabricated Metal Products
+MANOE3008,,,3812,Search And Navigation Equipment
+MANOE3010,,,4225,General Warehousing And Storage
+MANOE3011,,,2672,Paper Coated And Laminated
+MANOE3012,,,4489,Water Passenger Transportation
+MANOE3013,,,3471,Plating And Polishing
+MANOE3019,,,2431,Millwork
+MANOE3020,,,4119,Local Passenger Transportation
+MANOE3021,,,2295,"Coated Fabrics, Not Rubberized"
+MANOE3022,,,2752,"Commercial Printing, Lithographic"
+MANOE3023,,,2295,"Coated Fabrics, Not Rubberized"
+MANOE3024,,,2752,"Commercial Printing, Lithographic"
+MANOE3025,,,3083,Laminated Plastics Plate & Sheet
+MANOE3027,,,2732,Book Printing
+MANOE3028,,,2759,Commercial Printing
+MANOE3032,,,2835,Diagnostic Substances
+MANOE3033,,,2295,"Coated Fabrics, Not Rubberized"
+MANOE3034,,,2679,Converted Paper Products
+MANOE3043,,,3949,Sporting And Athletic Goods
+MANOE3046,,,2891,Adhesives And Sealants
+MANOE3047,,,3674,Semiconductors And Related Devices
+MANOE3052,,,3949,Sporting And Athletic Goods
+MANOE3055,,,2836,Biological Products Except Diagnostic
+MANOE3066,,,2672,Paper Coated And Laminated
+MANOE3072,,,3827,Optical Instruments And Lenses
+MANOE3078,,,3399,Primary Metal Products
+MANOE3079,,,2671,"Paper Coated & Laminated, Packaging"
+MANOE3080,,,3471,Plating And Polishing
+MANOE3081,,,3471,Plating And Polishing
+MANOE3082,,,2673,"Bags: Plastics, Laminated, & Coated"
+MANOE3084,,,2677,Envelopes
+MANOE3086,,,4581,"Airports, Flying Fields, & Services"
+MANOE3091,,,3446,Architectural Metal Work
+MANOE3093,,,3499,Fabricated Metal Products
+MANOE3097,,,3081,Unsupported Plastics Film & Sheet
+MANOE3098,,,3829,Measuring & Controlling Devices
+MANOE3099,,,3479,Metal Coating And Allied Services
+MANOE3100,,,3087,Custom Compound Purchased Resins
+MANOE3103,,,3674,Semiconductors And Related Devices
+MANOE3106,,,2082,Malt Beverages
+MANOE3107,,,2678,Stationery Products
+MANOE3117,,,2434,Wood Kitchen Cabinets
+MANOE3119,,,4581,"Airports, Flying Fields, & Services"
+MANOE3137,,,2099,Food Preparations
+MANOE3141,,,3993,Signs And Advertising Specialities
+MANOE3142,,,2819,Industrial Inorganic Chemicals
+MANOE3153,,,3089,Plastics Products
+MANOE3175,,,3674,Semiconductors And Related Devices
+MANOE3179,,,3931,Musical Instruments
+MANOE3191,,,3955,Carbon Paper And Inked Ribbons
+MANOE3193,,,3613,Switchgear And Switchboard Apparatus
+MANOE3196,,,3061,Mechanical Rubber Goods
+MANOE3197,,,3613,Switchgear And Switchboard Apparatus
+MANOE3199,,,4581,"Airports, Flying Fields, & Services"
+MANOE3202,,,2899,Chemical Preparations
+MANOE3205,,,2679,Converted Paper Products
+MANOE3210,,,2679,Converted Paper Products
+MANOE3211,,,4581,"Airports, Flying Fields, & Services"
+MANOE3215,,,2679,Converted Paper Products
+MANOE3238,,,4225,General Warehousing And Storage
+MANOE3263,,,3083,Laminated Plastics Plate & Sheet
+MANOE3298,,,2448,Wood Pallets And Skids
+MANOE3299,,,3812,Search And Navigation Equipment
+MANOE3302,,,2448,Wood Pallets And Skids
+MANOE3317,,,4225,General Warehousing And Storage
+MANOE3332,,,3339,Primary Nonferrous Metals
+MANOE3334,,,2821,Plastics Materials And Resins
+MANOE3338,,,4581,"Airports, Flying Fields, & Services"
+MANOE3344,,,3559,Special Industry Machinery
+MANOE3345,,,3559,Special Industry Machinery
+MANOE3346,,,3559,Special Industry Machinery
+MANOE3348,,,3559,Special Industry Machinery
+MANOE3379,,,3827,Optical Instruments And Lenses
+MANOE3397,,,3732,Boat Building And Repairing
+MANOE3432,,,2836,Biological Products Except Diagnostic
+MANOE3434,,,2836,Biological Products Except Diagnostic
+MANOE3437,,,2836,Biological Products Except Diagnostic
+MANOE3438,,,2836,Biological Products Except Diagnostic
+MANOE3442,,,2836,Biological Products Except Diagnostic
+MANOE3447,,,2836,Biological Products Except Diagnostic
+MANOE3449,,,2836,Biological Products Except Diagnostic
+MANOE3450,,,2836,Biological Products Except Diagnostic
+MANOE3451,,,2836,Biological Products Except Diagnostic
+MANOE3452,,,2836,Biological Products Except Diagnostic
+MANOE3456,,,3471,Plating And Polishing
+MANOE3457,,,3471,Plating And Polishing
+MANOE3473,,,2834,Pharmaceutical Preparations
+MANOE3474,,,2834,Pharmaceutical Preparations
+MANOE3475,,,5171,Petroleum Bulk Stations & Terminals
+MANOE3492,,,2836,Biological Products Except Diagnostic
+MANOE3500,,,3452,"Bolts, Nuts, Rivets, And Washers"
+MANOE3501,,,3441,Fabricated Structural Metal
+MANOE3539,,,5093,Scrap And Waste Materials
+MANOE3566,,,3069,Fabricated Rubber Products
+MANOE3580,,,4215,"Courier Services, Except By Air"
+MANOE3581,,,4215,"Courier Services, Except By Air"
+MANOE3582,,,4215,"Courier Services, Except By Air"
+MANOE3583,,,4215,"Courier Services, Except By Air"
+MANOE3592,,,4215,"Courier Services, Except By Air"
+MANOE3593,,,4215,"Courier Services, Except By Air"
+MANOE3594,,,4215,"Courier Services, Except By Air"
+MANOE3595,,,4215,"Courier Services, Except By Air"
+MANOE3603,,,4231,Trucking Terminal Facilities
+MANOE3607,,,4215,"Courier Services, Except By Air"
+MANOE3608,,,4215,"Courier Services, Except By Air"
+MANOE3609,,,4215,"Courier Services, Except By Air"
+MANOE3616,,,3674,Semiconductors And Related Devices
+MANOE3617,,,2899,Chemical Preparations
+MANOE3618,,,2599,Furniture And Fixtures
+MANOE3621,,,4215,"Courier Services, Except By Air"
+MANOE3622,,,4215,"Courier Services, Except By Air"
+MANOE3635,,,3674,Semiconductors And Related Devices
+MANOE3652,,,2621,Paper Mills
+MANOE3658,,,3569,General Industrial Machinery
+MANOE3672,,,3357,Nonferrous Wiredrawing & Insulating
+MANOE3673,,,3674,Semiconductors And Related Devices
+MANOE3676,,,3264,Porcelain Electrical Supplies
+MANOE3679,,,2842,Polishes And Sanitation Goods
+MANOE3680,,,3672,Printed Circuit Boards
+MANOE3681,,,3672,Printed Circuit Boards
+MANOE3689,,,3674,Semiconductors And Related Devices
+MANOE3694,,,3491,Industrial Valves
+MANOE3695,,,3479,Metal Coating And Allied Services
+MANOE3713,,,5015,"Motor Vehicle Parts, Used"
+MANOE3723,,,3083,Laminated Plastics Plate & Sheet
+MANOE3724,,,3669,Communications Equipment
+MANOE3725,,,3812,Search And Navigation Equipment
+MANOE3727,,,4215,"Courier Services, Except By Air"
+MANOE3730,,,4215,"Courier Services, Except By Air"
+MANOE3731,,,4215,"Courier Services, Except By Air"
+MANOE3732,,,4215,"Courier Services, Except By Air"
+MANOE3741,,,3499,Fabricated Metal Products
+MANOE3742,,,4215,"Courier Services, Except By Air"
+MANOE3743,,,3812,Search And Navigation Equipment
+MANOE3744,,,4226,Special Warehousing And Storage
+MANOE3746,,,2819,Industrial Inorganic Chemicals
+MANOE3749,,,3479,Metal Coating And Allied Services
+MANOE3757,,,2891,Adhesives And Sealants
+MANOE3759,,,3089,Plastics Products
+MANOE3776,,,3911,"Jewelry, Precious Metal"
+MANOE3779,,,2789,Bookbinding And Related Work
+MANOE3780,,,3479,Metal Coating And Allied Services
+MANOE3781,,,5093,Scrap And Waste Materials
+MANOE3782,,,3826,Analytical Instruments
+MANOE3783,,,3357,Nonferrous Wiredrawing & Insulating
+MANOE3788,,,3841,Surgical And Medical Instruments
+MANOE3790,,,2631,Paperboard Mills
+MANOE3791,,,3085,Plastics Bottles
+MANOE3799,,,2655,"Fiber Cans, Drums & Similar Products"
+MANOE3803,,,4119,Local Passenger Transportation
+MANOE3805,,,2836,Biological Products Except Diagnostic
+MANOE3806,,,2836,Biological Products Except Diagnostic
+MANOE3812,,,4222,Refrigerated Warehousing And Storage
+MANOE3815,,,4212,"Local Trucking, Without Storage"
+MANOE3819,,,3471,Plating And Polishing
+MANOE3823,,,3826,Analytical Instruments
+MANOE3824,,,3826,Analytical Instruments
+MANOE3828,,,3599,Industrial Machinery
+MANOE3830,,,3841,Surgical And Medical Instruments
+MANOE3831,,,3411,Metal Cans
+MANOE3832,,,2599,Furniture And Fixtures
+MANOE3833,,,3679,Electronic Components
+MANOE3834,,,3087,Custom Compound Purchased Resins
+MANOE3835,,,3087,Custom Compound Purchased Resins
+MANOE3838,,,3469,Metal Stampings
+MANOE3841,,,3732,Boat Building And Repairing
+MANOE3842,,,5093,Scrap And Waste Materials
+MANOE3846,,,3841,Surgical And Medical Instruments
+MANOE3848,,,2671,"Paper Coated & Laminated, Packaging"
+MANOE3852,,,2431,Millwork
+MANOE3853,,,2064,Candy & Other Confectionery Products
+MANOE3857,,,3398,Metal Heat Treating
+MANOE3858,,,4151,School Buses
+MANOE3859,,,3679,Electronic Components
+MANOE3860,,,3841,Surgical And Medical Instruments
+MANOE3862,,,2891,Adhesives And Sealants
+MANOE3863,,,4225,General Warehousing And Storage
+MANOE3864,,,3299,Nonmetallic Mineral Products
+MANOE3870,,,3841,Surgical And Medical Instruments
+MANOE3871,,,2092,Fresh Or Frozen Prepared Fish
+MANOE3873,,,4499,Water Transportation Services
+MANOE3876,,,3069,Fabricated Rubber Products
+MANOE3885,,,3069,Fabricated Rubber Products
+MANOE3886,,,3541,"Machine Tools, Metal Cutting Types"
+MANOE3888,,,3499,Fabricated Metal Products
+MANOE3893,,,3499,Fabricated Metal Products
+MANOE3894,,,3993,Signs And Advertising Specialities
+MANOE3895,,,4311,U.S. Postal Service
+MANOE3897,,,2752,"Commercial Printing, Lithographic"
+MANOE3902,,,2836,Biological Products Except Diagnostic
+MANOE3903,,,2836,Biological Products Except Diagnostic
+MANOE3904,,,2836,Biological Products Except Diagnostic
+MANOE3905,,,2836,Biological Products Except Diagnostic
+MANOE3906,,,2092,Fresh Or Frozen Prepared Fish
+MANOE3907,,,3356,Nonferrous Rolling And Drawing
+MANOE3908,,,4493,Marinas
+MANOE3909,,,3446,Architectural Metal Work
+MANOE3911,,,2657,Folding Paperboard Boxes
+MANOE3912,,,4215,"Courier Services, Except By Air"
+MANOE3916,,,2851,Paints And Allied Products
+MANOE3917,,,2096,Potato Chips And Similar Snacks
+MANOE3918,,,3851,Ophthalmic Goods - Manufacturing
+MANOE3919,,,3678,Electronic Connectors
+MANOE3921,,,3089,Plastics Products
+MANOE3922,,,3822,Environmental Controls
+MANOE3924,,,3679,Electronic Components
+MANOE3925,,,4493,Marinas
+MANOE3926,,,2893,Printing Ink
+MANOE3930,,,3499,Fabricated Metal Products
+MANOE3931,,,5093,Scrap And Waste Materials
+MANOE3934,,,2835,Diagnostic Substances
+MANOE3937,,,4215,"Courier Services, Except By Air"
+MANOE3938,,,4215,"Courier Services, Except By Air"
+MANOE3940,,,4225,General Warehousing And Storage
+MANOE3941,,,3674,Semiconductors And Related Devices
+MANOE3942,,,3845,Electromedical Equipment
+MANOE3943,,,2899,Chemical Preparations
+MANOE3947,,,3089,Plastics Products
+MANOE3948,,,2836,Biological Products Except Diagnostic
+MANOE3949,,,4225,General Warehousing And Storage
+MANOE3950,,,3826,Analytical Instruments
+MANOE3952,,,3826,Analytical Instruments
+MANOE3959,,,2835,Diagnostic Substances
+MANOE3962,,,3499,Fabricated Metal Products
+MANOE3963,,,2899,Chemical Preparations
+MANOE3968,,,2657,Folding Paperboard Boxes
+MANOE3969,,,3317,Steel Pipe And Tubes
+MANOE3970,,,3812,Search And Navigation Equipment
+MANOE3971,,,3812,Search And Navigation Equipment
+MANOE3972,,,3812,Search And Navigation Equipment
+MANOE3973,,,3674,Semiconductors And Related Devices
+MANOE3977,,,3826,Analytical Instruments
+MANOE3980,,,3411,Metal Cans
+MANOE3983,,,4225,General Warehousing And Storage
+MANOE3984,,,3679,Electronic Components
+MANOE3985,,,3679,Electronic Components
+MANOE3988,,,2992,Lubricating Oils And Greases
+MANOE3989,,,5093,Scrap And Waste Materials
+MANOE3990,,,4222,Refrigerated Warehousing And Storage
+MANOE3992,,,4225,General Warehousing And Storage
+MANOE3998,,,2299,Textile Goods
+MANOE3999,,,3672,Printed Circuit Boards
+MANOE4000,,,3692,"Primary Batteries, Dry And Wet"
+MANOE4001,,,2051,"Bread, Cake, And Related Products"
+MANOE4002,,,2051,"Bread, Cake, And Related Products"
+MANOE4003,,,3823,Process Control Instruments
+MANOE4004,,,3823,Process Control Instruments
+MANOE4006,,,2621,Paper Mills
+MANOE4007,,,3086,Plastics Foam Products
+MANOE4009,,,2821,Plastics Materials And Resins
+MANOE4011,,,2836,Biological Products Except Diagnostic
+MANOE4012,,,2836,Biological Products Except Diagnostic
+MANOE4013,,,2836,Biological Products Except Diagnostic
+MANOE4015,,,3299,Nonmetallic Mineral Products
+MANOE4017,,,2891,Adhesives And Sealants
+MANOE4018,,,3829,Measuring & Controlling Devices
+MANOE4019,,,3829,Measuring & Controlling Devices
+MANOE4020,,,3471,Plating And Polishing
+MANOE4021,,,4225,General Warehousing And Storage
+MANOE4023,,,4311,U.S. Postal Service
+MANOE4024,,,3315,Steel Wire And Related Products
+MANOE4025,,,2754,"Commercial Printing, Gravure"
+MANOE4026,,,2836,Biological Products Except Diagnostic
+MANOE4030,,,3845,Electromedical Equipment
+MANOE4031,,,2653,Corrugated And Solid Fiber Boxes
+MANOE4032,,,4222,Refrigerated Warehousing And Storage
+MANOE4033,,,4222,Refrigerated Warehousing And Storage
+MANOE4034,,,4222,Refrigerated Warehousing And Storage
+MANOE4036,,,3827,Optical Instruments And Lenses
+MANOE4038,,,2821,Plastics Materials And Resins
+MANOE4039,,,2821,Plastics Materials And Resins
+MANOE4040,,,3841,Surgical And Medical Instruments
+MANOE4043,,,3499,Fabricated Metal Products
+MANOE4044,,,2394,Canvas And Related Products
+MANOE4045,,,3827,Optical Instruments And Lenses
+MANOE4046,,,4225,General Warehousing And Storage
+MANOE4049,,,3812,Search And Navigation Equipment
+MANOE4051,,,3149,"Footwear, Except Rubber"
+MANOE4052,,,3272,Concrete Products
+MANOE4055,,,3826,Analytical Instruments
+MANOE4056,,,3566,"Speed Changers, Drives, And Gears"
+MANOE4058,,,4215,"Courier Services, Except By Air"
+MANOE4062,,,4493,Marinas
+MANOE4063,,,3089,Plastics Products
+MANOE4064,,,3713,Truck And Bus Bodies
+MANOE4066,,,3081,Unsupported Plastics Film & Sheet
+MANOE4067,,,3081,Unsupported Plastics Film & Sheet
+MANOE4068,,,3081,Unsupported Plastics Film & Sheet
+MANOE4069,,,3081,Unsupported Plastics Film & Sheet
+MANOE4071,,,3732,Boat Building And Repairing
+MANOE4074,,,4225,General Warehousing And Storage
+MANOE4075,,,3357,Nonferrous Wiredrawing & Insulating
+MANOE4076,,,3081,Unsupported Plastics Film & Sheet
+MANOE4077,,,3499,Fabricated Metal Products
+MANOE4081,,,3826,Analytical Instruments
+MANOE4082,,,4151,School Buses
+MANOE4083,,,4151,School Buses
+MANOE4085,,,2893,Printing Ink
+MANOE4086,,,3679,Electronic Components
+MANOE4088,,,2891,Adhesives And Sealants
+MANOE4089,,,4215,"Courier Services, Except By Air"
+MANOE4092,,,2834,Pharmaceutical Preparations
+MANOE4094,,,5093,Scrap And Waste Materials
+MANOEJ000,,,3674,Semiconductors And Related Devices
+MANOEJ001,,,2834,Pharmaceutical Preparations
+MANOEJ002,,,3425,Saw Blades And Handsaws
+MANOEJ003,,,3999,Manufacturing Industries
+MANOEJ004,,,3646,Commercial Lighting Fixtures
+MANOEJ005,,,2834,Pharmaceutical Preparations
+MANOEJ006,,,2082,Malt Beverages
+MANOEJ007,,,2033,Canned Fruits And Vegetables
+MANOEJ008,,,3499,Fabricated Metal Products
+MANOEJ009,,,2834,Pharmaceutical Preparations
+MANOEJ00A,,,3317,Steel Pipe And Tubes
+MANOEJ00B,,,3841,Surgical And Medical Instruments
+MANOEJ00C,,,2851,Paints And Allied Products
+MANOEJ00D,,,3674,Semiconductors And Related Devices
+MANOEJ00E,,,2673,"Bags: Plastics, Laminated, & Coated"
+MANOEJ00F,,,4213,"Trucking, Except Local"
+MANOEJ00G,,,3398,Metal Heat Treating
+MANOEJ00H,,,2051,"Bread, Cake, And Related Products"
+MANOEJ00I,,,3421,Cutlery
+MANOEJ00J,,,2671,"Paper Coated & Laminated, Packaging"
+MANOEJ00K,,,3568,Power Transmission Equipment
+MANOEJ00L,,,2672,Paper Coated And Laminated
+MANOEJ00M,,,2891,Adhesives And Sealants
+MANOEJ00N,,,4212,"Local Trucking, Without Storage"
+MANOEJ00O,,,2834,Pharmaceutical Preparations
+MANOEJ00P,,,3841,Surgical And Medical Instruments
+MANOEJ00Q,,,3841,Surgical And Medical Instruments
+MANOEJ00R,,,2655,"Fiber Cans, Drums & Similar Products"
+MANOEJ00S,,,5093,Scrap And Waste Materials
+MANOEJ00T,,,2836,Biological Products Except Diagnostic
+MANOEJ00U,,,2893,Printing Ink
+MANOEJ00V,,,2092,Fresh Or Frozen Prepared Fish
+MANOEJ00W,,,3398,Metal Heat Treating
+MANOEJ00X,,,3842,Surgical Appliances And Supplies
+MANOEJ00Y,,,3499,Fabricated Metal Products
+MANOEJ00Z,,,3823,Process Control Instruments
+MANOEJ010,,,4226,Special Warehousing And Storage
+MANOEJ011,,,2677,Envelopes
+MANOEJ012,,,3679,Electronic Components
+MANOEJ013,,,2834,Pharmaceutical Preparations
+MANOEJ014,,,3695,Magnetic And Optical Recording Media
+MANOEJ015,,,4213,"Trucking, Except Local"
+MANOEJ016,,,4213,"Trucking, Except Local"
+MANOEJ017,,,2835,Diagnostic Substances
+MANOEJ018,,,2819,Industrial Inorganic Chemicals
+MANOEJ019,,,2835,Diagnostic Substances
+MANOEJ01A,,,2834,Pharmaceutical Preparations
+MANOEJ01B,,,2819,Industrial Inorganic Chemicals
+MANOEJ01C,,,2836,Biological Products Except Diagnostic
+MANOEJ01D,,,3491,Industrial Valves
+MANOEJ01E,,,3599,Industrial Machinery
+MANOEJ01F,,,2041,Flour And Other Grain Mill Products
+MANOEJ01G,,,4215,"Courier Services, Except By Air"
+MANOEJ01H,,,4225,General Warehousing And Storage
+MANOEJ01I,,,2295,"Coated Fabrics, Not Rubberized"
+MANOEJ01J,,,3841,Surgical And Medical Instruments
+MANOEJ01K,,,3452,"Bolts, Nuts, Rivets, And Washers"
+MANOEJ01L,,,3621,Motors And Generators
+MANOEJ01M,,,3536,"Hoists, Cranes, And Monorails"
+MANOEJ01N,,,3544,"Special Dies, Tools, Jigs & Fixtures"
+MANOEJ01O,,,4213,"Trucking, Except Local"
+MANOEJ01P,,,3841,Surgical And Medical Instruments
+MANOEJ01Q,,,3357,Nonferrous Wiredrawing & Insulating
+MANOEJ01R,,,3561,Pumps And Pumping Equipment
+MANOEJ01S,,,2834,Pharmaceutical Preparations
+MANOEJ01T,,,3944,"Games, Toys, And Children*s Vehicles"
+MANOEJ01U,,,2836,Biological Products Except Diagnostic
+MANOEJ01V,,,3679,Electronic Components
+MANOEJ01W,,,3812,Search And Navigation Equipment
+MANOEJ01X,,,3577,Computer Peripheral Equipment
+MANOEJ01Y,,,3812,Search And Navigation Equipment
+MANOEJ01Z,,,3812,Search And Navigation Equipment
+MANOEJ020,,,3841,Surgical And Medical Instruments
+MANOEJ021,,,2899,Chemical Preparations
+MANOEJ022,,,2297,Nonwoven Fabrics
+MANOEJ023,,,2759,Commercial Printing
+MANOEJ024,,,3053,"Gaskets, Packing And Sealing Devices"
+MANOEJ025,,,2759,Commercial Printing
+MANOEJ026,,,2673,"Bags: Plastics, Laminated, & Coated"
+MANOEJ027,,,3444,Sheet Metal Work
+MANOEJ029,,,3829,Measuring & Controlling Devices
+MANOEJ02A,,,3676,Electronic Resistors
+MANOEJ02B,,,3594,Fluid Power Pumps And Motors
+MANOEJ02C,,,3559,Special Industry Machinery
+MANOEJ02D,,,2869,Industrial Organic Chemicals
+MANOEJ02E,,,3714,Motor Vehicle Parts And Accessories
+MANOEJ02F,,,3842,Surgical Appliances And Supplies
+MANOEJ02G,,,3549,Metalworking Machinery
+MANOEJ02H,,,2015,Poultry Slaughtering And Processing
+MANOEJ02I,,,3679,Electronic Components
+MANOEJ02J,,,3441,Fabricated Structural Metal
+MANOEJ02K,,,3676,Electronic Resistors
+MANOEJ02L,,,3724,Aircraft Engines And Engine Parts
+MANOEJ02M,,,3823,Process Control Instruments
+MANOEJ02N,,,3565,Packaging Machinery
+MANOEJ02O,,,3675,Electronic Capacitors
+MANOEJ02P,,,4226,Special Warehousing And Storage
+MANOEJ02Q,,,2053,"Frozen Bakery Products, Except Bread"
+MANOEJ02R,,,3357,Nonferrous Wiredrawing & Insulating
+MANOEJ02S,,,3679,Electronic Components
+MANOEJ02T,,,3339,Primary Nonferrous Metals
+MANOEJ02U,,,3829,Measuring & Controlling Devices
+MANOEJ02V,,,2834,Pharmaceutical Preparations
+MANOEJ02W,,,3398,Metal Heat Treating
+MANOEJ02X,,,3599,Industrial Machinery
+MANOEJ02Y,,,4215,"Courier Services, Except By Air"
+MANOEJ02Z,,,3082,Unsupported Plastics Profile Shapes
+MANOEJ030,,,2033,Canned Fruits And Vegetables
+MANOEJ031,,,3087,Custom Compound Purchased Resins
+MANOEJ032,,,3674,Semiconductors And Related Devices
+MANOEJ033,,,3674,Semiconductors And Related Devices
+MANOEJ034,,,3845,Electromedical Equipment
+MANOEJ035,,,3845,Electromedical Equipment
+MANOEJ036,,,3799,Transportation Equipment
+MANOEJ037,,,3842,Surgical Appliances And Supplies
+MANOEJ038,,,3357,Nonferrous Wiredrawing & Insulating
+MANOEJ039,,,3842,Surgical Appliances And Supplies
+MANOEJ03A,,,3761,Guided Missiles And Space Vehicles
+MANOEJ03B,,,3357,Nonferrous Wiredrawing & Insulating
+MANOEJ03C,,,3826,Analytical Instruments
+MANOEJ03D,,,3826,Analytical Instruments
+MANOEJ03E,,,4225,General Warehousing And Storage
+MANOEJ03F,,,4151,School Buses
+MANOEJ03H,,,3589,Service Industry Machinery
+MANOEJ03I,,,3829,Measuring & Controlling Devices
+MANOEJ03J,,,2522,"Office Furniture, Except Wood"
+MANOEJ03K,,,3679,Electronic Components
+MANOEJ03L,,,2836,Biological Products Except Diagnostic
+MANOEJ03M,,,3679,Electronic Components
+MANOEJ03N,,,3679,Electronic Components
+MANOEJ03O,,,3589,Service Industry Machinery
+MANOEJ03P,,,2297,Nonwoven Fabrics
+MANOEJ03Q,,,4213,"Trucking, Except Local"
+MANOEJ03R,,,4213,"Trucking, Except Local"
+MANOEJ03S,,,4213,"Trucking, Except Local"
+MANOEJ03T,,,4213,"Trucking, Except Local"
+MANOEJ03W,,,3599,Industrial Machinery
+MANOEJ03X,,,5093,Scrap And Waste Materials
+MANOEJ03Y,,,3429,"Hardware, Not Elsewhere Classified"
+MANOEJ03Z,,,2899,Chemical Preparations
+MANOEJ040,,,3083,Laminated Plastics Plate & Sheet
+MANOEJ041,,,4225,General Warehousing And Storage
+MANOEJ042,,,3844,X-Ray Apparatus And Tubes
+MANOEJ043,,,4225,General Warehousing And Storage
+MANOEJ044,,,4231,Trucking Terminal Facilities
+MANOEJ046,,,2836,Biological Products Except Diagnostic
+MANOEJ047,,,2836,Biological Products Except Diagnostic
+MANOEJ048,,,2836,Biological Products Except Diagnostic
+MANOEJ049,,,3089,Plastics Products
+MANOEJ04A,,,4214,Local Trucking With Storage
+MANOEJ04B,,,4214,Local Trucking With Storage
+MANOEJ04C,,,4214,Local Trucking With Storage
+MANOEJ04D,,,4214,Local Trucking With Storage
+MANOEJ04E,,,4214,Local Trucking With Storage
+MANOEJ04F,,,4215,"Courier Services, Except By Air"
+MANOEJ04G,,,3571,Electronic Computers
+MANOEJ04H,,,3499,Fabricated Metal Products
+MANOEJ04I,,,4213,"Trucking, Except Local"
+MANOEJ04J,,,4213,"Trucking, Except Local"
+MANOEJ04K,,,4499,Water Transportation Services
+MANOEJ04L,,,3577,Computer Peripheral Equipment
+MANOEJ04M,,,3663,Radio & TV Communications Equipment
+MANOEJ04N,,,3479,Metal Coating And Allied Services
+MANOEJ04O,,,3471,Plating And Polishing
+MANOEJ04P,,,4111,Local And Suburban Transit
+MANOEJ04Q,,,4111,Local And Suburban Transit
+MANOEJ04R,,,4215,"Courier Services, Except By Air"
+MANOEJ04S,,,3572,Computer Storage Devices
+MANOEJ04T,,,3572,Computer Storage Devices
+MANOEJ04U,,,3572,Computer Storage Devices
+MANOEJ04V,,,3572,Computer Storage Devices
+MANOEJ04W,,,3572,Computer Storage Devices
+MANOEJ04X,,,2836,Biological Products Except Diagnostic
+MANOEJ04Y,,,2752,"Commercial Printing, Lithographic"
+MANOEJ04Z,,,3826,Analytical Instruments
+MANOEJ050,,,3635,Household Vacuum Cleaners
+MANOEJ051,,,3699,Electrical Equipment & Supplies
+MANOEJ052,,,2531,Public Building & Related Furniture
+MANOEJ053,,,3952,Lead Pencils And Art Goods
+MANOEJ054,,,4215,"Courier Services, Except By Air"
+MANOEJ055,,,3423,Hand And Edge Tools
+MANOEJ056,,,3086,Plastics Foam Products
+MANOEJ057,,,3569,General Industrial Machinery
+MANOEJ058,,,2531,Public Building & Related Furniture
+MANOEJ059,,,3559,Special Industry Machinery
+MANOEJ05A,,,3559,Special Industry Machinery
+MANOEJ05B,,,3559,Special Industry Machinery
+MANOEJ05C,,,3559,Special Industry Machinery
+MANOEJ05D,,,3559,Special Industry Machinery
+MANOEJ05E,,,2095,Roasted Coffee
+MANOEJ05F,,,4493,Marinas
+MANOEJ05G,,,2711,Newspapers
+MANOEJ05H,,,2834,Pharmaceutical Preparations
+MANOEJ05I,,,2834,Pharmaceutical Preparations
+MANOEJ05J,,,5015,"Motor Vehicle Parts, Used"
+MANOEJ05K,,,3714,Motor Vehicle Parts And Accessories
+MANOEJ05L,,,3679,Electronic Components
+MANOEJ05M,,,3672,Printed Circuit Boards
+MANOEJ05N,,,4225,General Warehousing And Storage
+MANOEJ05O,,,2813,Industrial Gases
+MANOEJ05P,,,3559,Special Industry Machinery
+MANOEJ05Q,,,3559,Special Industry Machinery
+MANOEJ05R,,,3559,Special Industry Machinery
+MANOEJ05S,,,3559,Special Industry Machinery
+MANOEJ05T,,,3559,Special Industry Machinery
+MANOEJ05U,,,2394,Canvas And Related Products
+MANOEJ05V,,,3471,Plating And Polishing
+MANOEJ05W,,,2099,Food Preparations
+MANOEJ05Y,,,5015,"Motor Vehicle Parts, Used"
+MANOEJ05Z,,,5093,Scrap And Waste Materials
+MANOEJ060,,,3724,Aircraft Engines And Engine Parts
+MANOEJ061,,,3841,Surgical And Medical Instruments
+MANOEJ062,,,4225,General Warehousing And Storage
+MANOEJ063,,,4215,"Courier Services, Except By Air"
+MANOEJ064,,,4215,"Courier Services, Except By Air"
+MANOEJ065,,,4215,"Courier Services, Except By Air"
+MANOEJ066,,,2851,Paints And Allied Products
+MANOEJ067,,,2653,Corrugated And Solid Fiber Boxes
+MANOEJ069,,,2399,Fabricated Textile Products
+MANOEJ06A,,,3826,Analytical Instruments
+MANOEJ06B,,,3999,Manufacturing Industries
+MANOEJ06C,,,4213,"Trucking, Except Local"
+MANOEJ06D,,,3999,Manufacturing Industries
+MANOEJ06E,,,3999,Manufacturing Industries
+MANOEJ06F,,,3999,Manufacturing Industries
+MANOEJ06H,,,5015,"Motor Vehicle Parts, Used"
+MANOEJ06I,,,2834,Pharmaceutical Preparations
+MANOEJ06J,,,2834,Pharmaceutical Preparations
+MANOEJ06K,,,2834,Pharmaceutical Preparations
+MANOEJ06L,,,2834,Pharmaceutical Preparations
+MANOEJ06M,,,2834,Pharmaceutical Preparations
+MANOEJ06N,,,2834,Pharmaceutical Preparations
+MANOEJ06O,,,2834,Pharmaceutical Preparations
+MANOEJ06P,,,2834,Pharmaceutical Preparations
+MANOEJ06Q,,,3089,Plastics Products
+MANOEJ06R,,,2834,Pharmaceutical Preparations
+MANOEJ06S,,,2675,Die-Cut Paper And Board
+MANOEJ06T,,,3471,Plating And Polishing
+MANOEJ06U,,,5015,"Motor Vehicle Parts, Used"
+MANOEJ06V,,,5015,"Motor Vehicle Parts, Used"
+MANOEJ06W,,,5015,"Motor Vehicle Parts, Used"
+MANOEJ06X,,,4225,General Warehousing And Storage
+MANOEJ06Y,,,4225,General Warehousing And Storage
+MANOEJ06Z,,,4225,General Warehousing And Storage
+MANOEJ072,,,3497,Metal Foil And Leaf
+MANOEJ073,,,3845,Electromedical Equipment
+MANOEJ074,,,3728,Aircraft Parts And Equipment
+MANOEJ076,,,3545,Machine Tool Accessories
+MANOEJ078,,,3089,Plastics Products
+MANOEJ07A,,,2851,Paints And Allied Products
+MANOEJ07B,,,4215,"Courier Services, Except By Air"
+MANOEJ07C,,,3089,Plastics Products
+MANOEJ07F,,,2653,Corrugated And Solid Fiber Boxes
+MANOEJ07G,,,3357,Nonferrous Wiredrawing & Insulating
+MANOEJ07H,,,2752,"Commercial Printing, Lithographic"
+MANOEJ07I,,,2671,"Paper Coated & Laminated, Packaging"
+MANOEJ07J,,,2836,Biological Products Except Diagnostic
+MANOEJ07M,,,4311,U.S. Postal Service
+MANOEJ07N,,,2899,Chemical Preparations
+MANOEJ07O,,,2033,Canned Fruits And Vegetables
+MANOEJ07P,,,2448,Wood Pallets And Skids
+MANOEJ07Q,,,5093,Scrap And Waste Materials
+MANOEJ07R,,,4231,Trucking Terminal Facilities
+MANOEJ07S,,,3724,Aircraft Engines And Engine Parts
+MANOEJ07T,,,3724,Aircraft Engines And Engine Parts
+MANOEJ07U,,,4215,"Courier Services, Except By Air"
+MANOEJ07V,,,3269,Pottery Products
+MANOEJ07X,,,2836,Biological Products Except Diagnostic
+MANOEJ07Y,,,3699,Electrical Equipment & Supplies
+MANOEJ07Z,,,3663,Radio & TV Communications Equipment
+MANOEJ080,,,3052,Rubber & Plastics Hose & Belting
+MANOEJ082,,,3931,Musical Instruments
+MANOEJ083,,,2834,Pharmaceutical Preparations
+MANOEJ084,,,4111,Local And Suburban Transit
+MANOEJ085,,,3052,Rubber & Plastics Hose & Belting
+MANOEJ086,,,4493,Marinas
+MANOEJ087,,,2834,Pharmaceutical Preparations
+MANOEJ088,,,4225,General Warehousing And Storage
+MANOEJ08A,,,4311,U.S. Postal Service
+MANOEJ08B,,,2399,Fabricated Textile Products
+MANOEJ08C,,,3479,Metal Coating And Allied Services
+MANOEJ08D,,,2752,"Commercial Printing, Lithographic"
+MANOEJ08E,,,4225,General Warehousing And Storage
+MANOEJ08F,,,3441,Fabricated Structural Metal
+MANOEJ08G,,,3479,Metal Coating And Allied Services
+MANOEJ08H,,,4214,Local Trucking With Storage
+MANOEJ08J,,,2038,Frozen Specialties
+MANOEJ08K,,,2759,Commercial Printing
+MANOEJ08L,,,2099,Food Preparations
+MANOEJ08M,,,5093,Scrap And Waste Materials
+MANOEJ08N,,,2836,Biological Products Except Diagnostic
+MANOEJ08O,,,3452,"Bolts, Nuts, Rivets, And Washers"
+MANOEJ08P,,,3564,Blowers And Fans
+MANOEJ08Q,,,3089,Plastics Products
+MANOEJ08R,,,3845,Electromedical Equipment
+MANOEJ08S,,,4225,General Warehousing And Storage
+MANOEJ08T,,,2657,Folding Paperboard Boxes
+MANOEJ08U,,,2657,Folding Paperboard Boxes
+MANOEJ08V,,,3471,Plating And Polishing
+MANOEJ08W,,,3842,Surgical Appliances And Supplies
+MANOEJ08X,,,2099,Food Preparations
+MANOEJ08Y,,,2099,Food Preparations
+MANOEJ08Z,,,4222,Refrigerated Warehousing And Storage
+MANOEJ090,,,4225,General Warehousing And Storage
+MANOEJ091,,,3826,Analytical Instruments
+MANOEJ093,,,2434,Wood Kitchen Cabinets
+MANOEJ094,,,3999,Manufacturing Industries
+MANOEJ095,,,5093,Scrap And Waste Materials
+MANOEJ096,,,3643,Current-Carrying Wiring Devices
+MANOEJ097,,,3572,Computer Storage Devices
+MANOEJ098,,,2068,Salted And Roasted Nuts And Seeds
+MANOEJ099,,,4222,Refrigerated Warehousing And Storage
+MANOEJ09A,,,3081,Unsupported Plastics Film & Sheet
+MANOEJ09C,,,2086,Bottled And Canned Soft Drinks
+MANOEJ09D,,,2673,"Bags: Plastics, Laminated, & Coated"
+MANOEJ09F,,,3812,Search And Navigation Equipment
+MANOEJ09G,,,2821,Plastics Materials And Resins
+MANOEJ09H,,,3812,Search And Navigation Equipment
+MANOEJ09I,,,3674,Semiconductors And Related Devices
+MANOEJ09J,,,2844,Toilet Preparations
+MANOEJ09K,,,3559,Special Industry Machinery
+MANOEJ09L,,,4222,Refrigerated Warehousing And Storage
+MANOEJ09M,,,4222,Refrigerated Warehousing And Storage
+MANOEJ09N,,,4222,Refrigerated Warehousing And Storage
+MANOEJ09O,,,2711,Newspapers
+MANOEJ09P,,,3751,"Motorcycles, Bicycles, And Parts"
+MANOEJ09Q,,,2099,Food Preparations
+MANOEJ09R,,,3812,Search And Navigation Equipment
+MANOEJ09S,,,3629,Electrical Industrial Apparatus
+MANOEJ09T,,,4111,Local And Suburban Transit
+MANOEJ09U,,,3357,Nonferrous Wiredrawing & Insulating
+MANOEJ09V,,,3823,Process Control Instruments
+MANOEJ09W,,,2841,Soap And Other Detergents
+MANOEJ09X,,,3086,Plastics Foam Products
+MANOEJ09Y,,,2899,Chemical Preparations
+MANOEJ0A0,,,2038,Frozen Specialties
+MANOEJ0A1,,,2657,Folding Paperboard Boxes
+MANOEJ0A2,,,2833,Medicinals And Botanicals
+MANOEJ0A3,,,3554,Paper Industries Machinery
+MANOEJ0A4,,,4581,"Airports, Flying Fields, & Services"
+MANOEJ0A5,,,4213,"Trucking, Except Local"
+MANOEJ0A6,,,2038,Frozen Specialties
+MANOEJ0A7,,,4225,General Warehousing And Storage
+MANOEJ0A8,,,3812,Search And Navigation Equipment
+MANOEJ0A9,,,2092,Fresh Or Frozen Prepared Fish
+MANOEJ0AA,,,3081,Unsupported Plastics Film & Sheet
+MANOEJ0AB,,,3999,Manufacturing Industries
+MANOEJ0AC,,,3357,Nonferrous Wiredrawing & Insulating
+MANOEJ0AE,,,4225,General Warehousing And Storage
+MANOEJ0AF,,,4225,General Warehousing And Storage
+MANOEJ0AG,,,2099,Food Preparations
+MANOEJ0AH,,,3086,Plastics Foam Products
+MANOEJ0AI,,,3841,Surgical And Medical Instruments
+MANOEJ0AJ,,,5093,Scrap And Waste Materials
+MANOEJ0AK,,,5093,Scrap And Waste Materials
+MANOEJ0AL,,,3089,Plastics Products
+MANOEJ0AM,,,2038,Frozen Specialties
+MANOEJ0AN,,,4225,General Warehousing And Storage
+MANOEJ0AO,,,3842,Surgical Appliances And Supplies
+MANOEJ0AP,,,3519,Internal Combustion Engines
+MANOEJ0AQ,,,3826,Analytical Instruments
+MANOEJ0AR,,,2834,Pharmaceutical Preparations
+MANOEJ0AS,,,3471,Plating And Polishing
+MANOEJ0AU,,,3471,Plating And Polishing
+MANOEJ0AW,,,3841,Surgical And Medical Instruments
+MANOEJ0AX,,,2836,Biological Products Except Diagnostic
+MANOEJ0AY,,,3911,"Jewelry, Precious Metal"
+MANOEJ0AZ,,,2836,Biological Products Except Diagnostic
+MANOEJ0B1,,,2834,Pharmaceutical Preparations
+MANOEJ0B2,,,2834,Pharmaceutical Preparations
+MANOEJ0B4,,,3086,Plastics Foam Products
+MANOEJ0B6,,,2092,Fresh Or Frozen Prepared Fish
+MANOEJ0B7,,,4225,General Warehousing And Storage
+MANOEJ0B8,,,4213,"Trucking, Except Local"
+MANOEJ0B9,,,3255,Clay Refractories
+MANOEJ0BA,,,3069,Fabricated Rubber Products
+MANOEJ0BB,,,3499,Fabricated Metal Products
+MANOEJ0BC,,,5015,"Motor Vehicle Parts, Used"
+MANOEJ0BD,,,3559,Special Industry Machinery
+MANOEJ0BF,,,3911,"Jewelry, Precious Metal"
+MANOEJ0BG,,,3841,Surgical And Medical Instruments
+MANOEJ0BH,,,3699,Electrical Equipment & Supplies
+MANOEJ0BI,,,3999,Manufacturing Industries
+MANOEJ0BJ,,,2431,Millwork
+MANOEJ0BK,,,4131,Intercity & Rural Bus Transportation
+MANOEJ0BL,,,3841,Surgical And Medical Instruments
+MANOEJ0BM,,,2834,Pharmaceutical Preparations
+MANOEJ0BN,,,2051,"Bread, Cake, And Related Products"
+MANOEJ0BO,,,3823,Process Control Instruments
+MANOEJ0BP,,,3812,Search And Navigation Equipment
+MANOEJ0BQ,,,3398,Metal Heat Treating
+MANOEJ0BR,,,3643,Current-Carrying Wiring Devices
+MANOEJ0BS,,,3823,Process Control Instruments
+MANOEJ0BT,,,3061,Mechanical Rubber Goods
+MANOEJ0BU,,,3679,Electronic Components
+MANOEJ0BW,,,3089,Plastics Products
+MANOEJ0BX,,,3356,Nonferrous Rolling And Drawing
+MANOEJ0BY,,,4493,Marinas
+MANOEJ0BZ,,,2836,Biological Products Except Diagnostic
+MANOEJ0C0,,,2843,Surface Active Agents
+MANOEJ0C1,,,2834,Pharmaceutical Preparations
+MANOEJ0C2,,,3841,Surgical And Medical Instruments
+MANOEJ0C3,,,3499,Fabricated Metal Products
+MANOEJ0C4,,,3699,Electrical Equipment & Supplies
+MANOEJ0C5,,,2836,Biological Products Except Diagnostic
+MANOEJ0C6,,,3559,Special Industry Machinery
+MANOEJ0C7,,,3841,Surgical And Medical Instruments
+MANOEJ0C9,,,3841,Surgical And Medical Instruments
+MANOEJ0CA,,,3841,Surgical And Medical Instruments
+MANOEJ0CB,,,2673,"Bags: Plastics, Laminated, & Coated"
+MANOEJ0CC,,,3679,Electronic Components
+MANOEJ0CE,,,3678,Electronic Connectors
+MANOEJ0CF,,,3699,Electrical Equipment & Supplies
+MANOEJ0CG,,,2834,Pharmaceutical Preparations
+MANOEJ0CH,,,3679,Electronic Components
+MANOEJ0CI,,,4215,"Courier Services, Except By Air"
+MANOEJ0CJ,,,4215,"Courier Services, Except By Air"
+MANOEJ0CK,,,2621,Paper Mills
+MANOEJ0CL,,,3842,Surgical Appliances And Supplies
+MANOEJ0CM,,,3823,Process Control Instruments
+MANOEJ0CN,,,2836,Biological Products Except Diagnostic
+MANOEJ0CO,,,2099,Food Preparations
+MANOEJ0CP,,,4225,General Warehousing And Storage
+MANOEJ0CQ,,,4225,General Warehousing And Storage
+MANOEJ0CR,,,4225,General Warehousing And Storage
+MANOEJ0CS,,,2836,Biological Products Except Diagnostic
+MANOEJ0CT,,,4493,Marinas
+MANOEJ0CU,,,3565,Packaging Machinery
+MANOEJ0CV,,,2834,Pharmaceutical Preparations
+MANOEJ0CX,,,3841,Surgical And Medical Instruments
+MANOEJ0CY,,,2099,Food Preparations
+MANOEJ0CZ,,,2097,Manufactured Ice for sale
+MANOEJ0D0,,,3089,Plastics Products
+MANOEJ0D1,,,2677,Envelopes
+MANOEJ0D2,,,3731,Ship Building And Repairing
+MANOEJ0D3,,,2891,Adhesives And Sealants
+MANOEJ0D4,,,3089,Plastics Products
+MANOEJ0D5,,,4225,General Warehousing And Storage
+MANOEJ0D6,,,2836,Biological Products Except Diagnostic
+MANOEJ0D7,,,2673,"Bags: Plastics, Laminated, & Coated"
+MANOEJ0D8,,,3599,Industrial Machinery
+MANOEJ0D9,,,3479,Metal Coating And Allied Services
+MANOEJ0DA,,,2671,"Paper Coated & Laminated, Packaging"
+MANOEJ0DB,,,2834,Pharmaceutical Preparations
+MANOEJ0DC,,,3399,Primary Metal Products
+MANOEJ0DD,,,4225,General Warehousing And Storage
+MANOEJ0DE,,,4225,General Warehousing And Storage
+MANOEJ0DF,,,4225,General Warehousing And Storage
+MANOEJ0DG,,,4225,General Warehousing And Storage
+MANOEJ0DH,,,4225,General Warehousing And Storage
+MANOEJ0DI,,,3089,Plastics Products
+MANOEJ0DJ,,,4225,General Warehousing And Storage
+MANOEJ0DK,,,4225,General Warehousing And Storage
+MANOEJ0DL,,,4225,General Warehousing And Storage
+MANOEJ0DM,,,4225,General Warehousing And Storage
+MANOEJ0DN,,,4225,General Warehousing And Storage
+MANOEJ0DO,,,4225,General Warehousing And Storage
+MANOEJ0DP,,,4225,General Warehousing And Storage
+MANOEJ0DQ,,,4225,General Warehousing And Storage
+MANOEJ0DR,,,4225,General Warehousing And Storage
+MANOEJ0DS,,,3672,Printed Circuit Boards
+MANOEJ0DT,,,4225,General Warehousing And Storage
+MANOEJ0DU,,,4225,General Warehousing And Storage
+MANOEJ0DV,,,4225,General Warehousing And Storage
+MANOEJ0DW,,,4225,General Warehousing And Storage
+MANOEJ0DX,,,4225,General Warehousing And Storage
+MANOEJ0DY,,,4225,General Warehousing And Storage
+MANOEJ0DZ,,,3728,Aircraft Parts And Equipment
+MANOEJ0E0,,,5093,Scrap And Waste Materials
+MANOEJ0E1,,,2448,Wood Pallets And Skids
+MANOEJ0E2,,,2431,Millwork
+MANOEJ0E3,,,3339,Primary Nonferrous Metals
+MANOEJ0E4,,,2038,Frozen Specialties
+MANOEJ0E5,,,3585,Refrigeration And Heating Equipment
+MANOEJ0E6,,,3999,Manufacturing Industries
+MANOEJ0E7,,,4151,School Buses
+MANOEJ0E8,,,4151,School Buses
+MANOEJ0E9,,,2836,Biological Products Except Diagnostic
+MANOEJ0EA,,,2836,Biological Products Except Diagnostic
+MANOEJ0EB,,,2836,Biological Products Except Diagnostic
+MANOEJ0EC,,,4151,School Buses
+MANOEJ0ED,,,3999,Manufacturing Industries
+MANOEJ0EE,,,3999,Manufacturing Industries
+MANOEJ0EF,,,3841,Surgical And Medical Instruments
+MANOEJ0EG,,,4213,"Trucking, Except Local"
+MANOEJ0EH,,,2671,"Paper Coated & Laminated, Packaging"
+MANOEJ0EI,,,4213,"Trucking, Except Local"
+MANOEJ0EJ,,,4213,"Trucking, Except Local"
+MANOEJ0EK,,,3471,Plating And Polishing
+MANOEJ0EM,,,3829,Measuring & Controlling Devices
+MANOEJ0EO,,,3081,Unsupported Plastics Film & Sheet
+MANOEJ0EP,,,2673,"Bags: Plastics, Laminated, & Coated"
+MANOEJ0ER,,,3599,Industrial Machinery
+MANOEJ0ES,,,3089,Plastics Products
+MANOEJ0EU,,,2899,Chemical Preparations
+MANOEJ0EV,,,3089,Plastics Products
+MANOEJ0EW,,,4513,Air Courier Services
+MANOEJ0EX,,,3089,Plastics Products
+MANOEJ0EY,,,4215,"Courier Services, Except By Air"
+MANOEJ0EZ,,,2833,Medicinals And Botanicals
+MANOEJ0F0,,,3845,Electromedical Equipment
+MANOEJ0F1,,,2076,Vegetable Oil Mills
+MANOEJ0F2,,,4225,General Warehousing And Storage
+MANOEJ0F3,,,3357,Nonferrous Wiredrawing & Insulating
+MANOEJ0F4,,,3841,Surgical And Medical Instruments
+MANOEJ0F5,,,5093,Scrap And Waste Materials
+MANOEJ0F6,,,2836,Biological Products Except Diagnostic
+MANOEJ0F7,,,4225,General Warehousing And Storage
+MANOEJ0F8,,,3699,Electrical Equipment & Supplies
+MANOEJ0F9,,,3821,Laboratory Apparatus And Furniture
+MANOEJ0FB,,,3479,Metal Coating And Allied Services
+MANOEJ0FC,,,2038,Frozen Specialties
+MANOEJ0FD,,,4222,Refrigerated Warehousing And Storage
+MANOEJ0FE,,,2821,Plastics Materials And Resins
+MANOEJ0FF,,,3297,Nonclay Refractories
+MANOEJ0FG,,,3569,General Industrial Machinery
+MANOEJ0FH,,,3296,Mineral Wool
+MANOEJ0FI,,,2834,Pharmaceutical Preparations
+MANOEJ0FJ,,,5093,Scrap And Waste Materials
+MANOEJ0FK,,,3999,Manufacturing Industries
+MANOEJ0FL,,,3999,Manufacturing Industries
+MANOEJ0FM,,,3559,Special Industry Machinery
+MANOEJ0FN,,,2013,Sausages And Other Prepared Meats
+MANOEJ0FO,,,3841,Surgical And Medical Instruments
+MANOEJ0FP,,,3086,Plastics Foam Products
+MANOEJ0FQ,,,2834,Pharmaceutical Preparations
+MANOEJ0FR,,,4111,Local And Suburban Transit
+MANOEJ0FS,,,3471,Plating And Polishing
+MANOEJ0FT,,,2834,Pharmaceutical Preparations
+MANOEJ0FU,,,2038,Frozen Specialties
+MANOEJ0FV,,,3479,Metal Coating And Allied Services
+MANOEJ0FW,,,4213,"Trucking, Except Local"
+MANOEJ0FX,,,3812,Search And Navigation Equipment
+MANOEJ0FY,,,2097,Manufactured Ice for sale
+MAP000001,,,3423,Hand And Edge Tools
+MAP000002,,,4911,Electric Services
+MAP000003,,,3841,Surgical And Medical Instruments
+MAP000005,,,3429,"Hardware, Not Elsewhere Classified"
+MAP000006,,,4911,Electric Services
+MAP000007,,,2834,Pharmaceutical Preparations
+MAP000008,,,3479,Metal Coating And Allied Services
+MAP000009,,,2836,Biological Products Except Diagnostic
+MAP000010,,,3826,Analytical Instruments
+MAR00A287,,,5149,Groceries And Related Products
+MAR050086,,,3732,Boat Building And Repairing
+MAR050087,,,4493,Marinas
+MAR050656,,,4911,Electric Services
+MAR052000,,,4493,Marinas
+MAR052001,,,4493,Marinas
+MAR052002,,,4512,"Air Transportation, Scheduled"
+MAR052003,,,4493,Marinas
+MAR052004,,,5015,"Motor Vehicle Parts, Used"
+MAR052005,,,4581,"Airports, Flying Fields, & Services"
+MAR052006,,,4493,Marinas
+MAR052007,,,4493,Marinas
+MAR052008,,,3732,Boat Building And Repairing
+MAR052009,,,4493,Marinas
+MAR052010,,,4493,Marinas
+MAR052011,,,4493,Marinas
+MAR052012,,,4493,Marinas
+MAR052013,,,4493,Marinas
+MAR052014,,,3732,Boat Building And Repairing
+MAR052015,,,3732,Boat Building And Repairing
+MAR052016,,,3732,Boat Building And Repairing
+MAR052017,,,2891,Adhesives And Sealants
+MAR052018,,,4493,Marinas
+MAR052019,,,3732,Boat Building And Repairing
+MAR052020,,,3732,Boat Building And Repairing
+MAR052021,,,4493,Marinas
+MAR052022,,,3089,Plastics Products
+MAR052023,,,4449,Water Transportation Of Freight
+MAR052024,,,3732,Boat Building And Repairing
+MAR052025,,,3732,Boat Building And Repairing
+MAR052026,,,5093,Scrap And Waste Materials
+MAR052027,,,4225,General Warehousing And Storage
+MAR053002,,,4131,Intercity & Rural Bus Transportation
+MAR053003,,,2024,Ice Cream And Frozen Desserts
+MAR053009,,,2099,Food Preparations
+MAR053015,,,3357,Nonferrous Wiredrawing & Insulating
+MAR053017,,,2851,Paints And Allied Products
+MAR053018,,,5093,Scrap And Waste Materials
+MAR053026,,,2653,Corrugated And Solid Fiber Boxes
+MAR053030,,,3732,Boat Building And Repairing
+MAR053031,,,4493,Marinas
+MAR053035,,,3827,Optical Instruments And Lenses
+MAR053037,,,4151,School Buses
+MAR053038,,,4151,School Buses
+MAR053039,,,4151,School Buses
+MAR053040,,,4151,School Buses
+MAR053041,,,4151,School Buses
+MAR053042,,,4151,School Buses
+MAR053044,,,4581,"Airports, Flying Fields, & Services"
+MAR053045,,,4581,"Airports, Flying Fields, & Services"
+MAR053048,,,3273,Ready-Mixed Concrete
+MAR053049,,,2082,Malt Beverages
+MAR053050,,,4151,School Buses
+MAR053051,,,4151,School Buses
+MAR053053,,,3483,"Ammunition, Except For Small Arms"
+MAR053056,,,2491,Wood Preserving
+MAR053059,,,3081,Unsupported Plastics Film & Sheet
+MAR053064,,,4493,Marinas
+MAR053067,,,2053,"Frozen Bakery Products, Except Bread"
+MAR053069,,,4493,Marinas
+MAR053071,,,4493,Marinas
+MAR053073,,,3674,Semiconductors And Related Devices
+MAR053074,,,4493,Marinas
+MAR053075,,,3826,Analytical Instruments
+MAR053076,,,3479,Metal Coating And Allied Services
+MAR053077,,,4493,Marinas
+MAR053083,,,2752,"Commercial Printing, Lithographic"
+MAR053085,,,2621,Paper Mills
+MAR053087,,,2653,Corrugated And Solid Fiber Boxes
+MAR053088,,,2653,Corrugated And Solid Fiber Boxes
+MAR053089,,,4493,Marinas
+MAR053090,,,2671,"Paper Coated & Laminated, Packaging"
+MAR053092,,,3671,Electron Tubes
+MAR053094,,,2732,Book Printing
+MAR053095,,,2677,Envelopes
+MAR053096,,,4522,"Air Transportation, Nonscheduled"
+MAR053101,,,3949,Sporting And Athletic Goods
+MAR053102,,,4493,Marinas
+MAR053108,,,2891,Adhesives And Sealants
+MAR053109,,,5015,"Motor Vehicle Parts, Used"
+MAR053111,,,3229,Pressed And Blown Glass
+MAR053113,,,3086,Plastics Foam Products
+MAR053114,,,3273,Ready-Mixed Concrete
+MAR053115,,,3273,Ready-Mixed Concrete
+MAR053116,,,2431,Millwork
+MAR053118,,,3949,Sporting And Athletic Goods
+MAR053120,,,3273,Ready-Mixed Concrete
+MAR053121,,,2086,Bottled And Canned Soft Drinks
+MAR053136,,,3559,Special Industry Machinery
+MAR053138,,,5015,"Motor Vehicle Parts, Used"
+MAR053139,,,4213,"Trucking, Except Local"
+MAR053140,,,5015,"Motor Vehicle Parts, Used"
+MAR053143,,,5015,"Motor Vehicle Parts, Used"
+MAR053144,,,4424,Deep Sea Domestic Trans. Of Freight
+MAR053145,,,3271,Concrete Block And Brick
+MAR053149,,,5015,"Motor Vehicle Parts, Used"
+MAR053150,,,1429,Crushed And Broken Stone
+MAR053151,,,1429,Crushed And Broken Stone
+MAR053152,,,1429,Crushed And Broken Stone
+MAR053154,,,4581,"Airports, Flying Fields, & Services"
+MAR053155,,,4493,Marinas
+MAR053157,,,3561,Pumps And Pumping Equipment
+MAR053158,,,2842,Polishes And Sanitation Goods
+MAR053159,,,4581,"Airports, Flying Fields, & Services"
+MAR053160,,,4231,Trucking Terminal Facilities
+MAR053161,,,4493,Marinas
+MAR053162,,,5015,"Motor Vehicle Parts, Used"
+MAR053163,,,2752,"Commercial Printing, Lithographic"
+MAR053164,,,4581,"Airports, Flying Fields, & Services"
+MAR053165,,,2621,Paper Mills
+MAR053166,,,4173,Bus Terminal And Service Facilities
+MAR053167,,,2269,Finishing Plants
+MAR053168,,,4111,Local And Suburban Transit
+MAR053169,,,4173,Bus Terminal And Service Facilities
+MAR053170,,,4013,Switching And Terminal Services
+MAR053171,,,2671,"Paper Coated & Laminated, Packaging"
+MAR053172,,,2269,Finishing Plants
+MAR053174,,,4213,"Trucking, Except Local"
+MAR053176,,,3087,Custom Compound Purchased Resins
+MAR053177,,,5015,"Motor Vehicle Parts, Used"
+MAR053178,,,4581,"Airports, Flying Fields, & Services"
+MAR053180,,,5093,Scrap And Waste Materials
+MAR053181,,,2671,"Paper Coated & Laminated, Packaging"
+MAR053182,,,4581,"Airports, Flying Fields, & Services"
+MAR053183,,,4493,Marinas
+MAR053184,,,5015,"Motor Vehicle Parts, Used"
+MAR053185,,,3363,Aluminum Die-Castings
+MAR053186,,,2951,Asphalt Paving Mixtures And Blocks
+MAR053187,,,3086,Plastics Foam Products
+MAR053188,,,3423,Hand And Edge Tools
+MAR053189,,,5093,Scrap And Waste Materials
+MAR053190,,,3356,Nonferrous Rolling And Drawing
+MAR053192,,,3799,Transportation Equipment
+MAR053194,,,4581,"Airports, Flying Fields, & Services"
+MAR053198,,,4111,Local And Suburban Transit
+MAR053201,,,3479,Metal Coating And Allied Services
+MAR053203,,,4111,Local And Suburban Transit
+MAR053204,,,3651,Household Audio And Video Equipment
+MAR053206,,,2086,Bottled And Canned Soft Drinks
+MAR053207,,,4581,"Airports, Flying Fields, & Services"
+MAR053208,,,4111,Local And Suburban Transit
+MAR053212,,,5015,"Motor Vehicle Parts, Used"
+MAR053213,,,3297,Nonclay Refractories
+MAR053214,,,2621,Paper Mills
+MAR053216,,,2621,Paper Mills
+MAR053217,,,4111,Local And Suburban Transit
+MAR053218,,,2621,Paper Mills
+MAR053219,,,3844,X-Ray Apparatus And Tubes
+MAR053220,,,2295,"Coated Fabrics, Not Rubberized"
+MAR053221,,,4011,"Railroads, Line-Haul Operating"
+MAR053222,,,3479,Metal Coating And Allied Services
+MAR053223,,,4011,"Railroads, Line-Haul Operating"
+MAR053224,,,2899,Chemical Preparations
+MAR053225,,,2834,Pharmaceutical Preparations
+MAR053226,,,5015,"Motor Vehicle Parts, Used"
+MAR053227,,,3315,Steel Wire And Related Products
+MAR053228,,,3315,Steel Wire And Related Products
+MAR053229,,,3441,Fabricated Structural Metal
+MAR053230,,,4493,Marinas
+MAR053232,,,5015,"Motor Vehicle Parts, Used"
+MAR053233,,,5015,"Motor Vehicle Parts, Used"
+MAR053234,,,2043,Cereal Breakfast Foods
+MAR053235,,,4222,Refrigerated Warehousing And Storage
+MAR053236,,,2851,Paints And Allied Products
+MAR053237,,,2951,Asphalt Paving Mixtures And Blocks
+MAR053239,,,3273,Ready-Mixed Concrete
+MAR053240,,,5015,"Motor Vehicle Parts, Used"
+MAR053241,,,5015,"Motor Vehicle Parts, Used"
+MAR053242,,,3273,Ready-Mixed Concrete
+MAR053243,,,5093,Scrap And Waste Materials
+MAR053244,,,2844,Toilet Preparations
+MAR053245,,,5015,"Motor Vehicle Parts, Used"
+MAR053246,,,1429,Crushed And Broken Stone
+MAR053247,,,4213,"Trucking, Except Local"
+MAR053248,,,4213,"Trucking, Except Local"
+MAR053249,,,4213,"Trucking, Except Local"
+MAR053250,,,4213,"Trucking, Except Local"
+MAR053251,,,4213,"Trucking, Except Local"
+MAR053252,,,4213,"Trucking, Except Local"
+MAR053253,,,5015,"Motor Vehicle Parts, Used"
+MAR053254,,,4493,Marinas
+MAR053255,,,4493,Marinas
+MAR053256,,,3999,Manufacturing Industries
+MAR053257,,,4222,Refrigerated Warehousing And Storage
+MAR053258,,,3411,Metal Cans
+MAR053259,,,4011,"Railroads, Line-Haul Operating"
+MAR053260,,,3021,Rubber And Plastics Footwear
+MAR053261,,,5093,Scrap And Waste Materials
+MAR053262,,,3273,Ready-Mixed Concrete
+MAR053264,,,3769,Space Vehicle Equipment
+MAR053265,,,3273,Ready-Mixed Concrete
+MAR053266,,,3061,Mechanical Rubber Goods
+MAR053267,,,3272,Concrete Products
+MAR053268,,,4493,Marinas
+MAR053269,,,2851,Paints And Allied Products
+MAR053270,,,5015,"Motor Vehicle Parts, Used"
+MAR053271,,,3273,Ready-Mixed Concrete
+MAR053272,,,1429,Crushed And Broken Stone
+MAR053273,,,2899,Chemical Preparations
+MAR053274,,,5093,Scrap And Waste Materials
+MAR053276,,,1429,Crushed And Broken Stone
+MAR053277,,,4225,General Warehousing And Storage
+MAR053278,,,4225,General Warehousing And Storage
+MAR053279,,,1429,Crushed And Broken Stone
+MAR053280,,,4512,"Air Transportation, Scheduled"
+MAR053281,,,5093,Scrap And Waste Materials
+MAR053282,,,5015,"Motor Vehicle Parts, Used"
+MAR053283,,,5093,Scrap And Waste Materials
+MAR053284,,,5093,Scrap And Waste Materials
+MAR053285,,,3272,Concrete Products
+MAR053286,,,3732,Boat Building And Repairing
+MAR053289,,,2269,Finishing Plants
+MAR053290,,,2821,Plastics Materials And Resins
+MAR053291,,,5093,Scrap And Waste Materials
+MAR053292,,,3356,Nonferrous Rolling And Drawing
+MAR053293,,,4111,Local And Suburban Transit
+MAR053294,,,5093,Scrap And Waste Materials
+MAR053296,,,2621,Paper Mills
+MAR053297,,,2679,Converted Paper Products
+MAR053300,,,4493,Marinas
+MAR053301,,,3812,Search And Navigation Equipment
+MAR053303,,,3081,Unsupported Plastics Film & Sheet
+MAR053304,,,1429,Crushed And Broken Stone
+MAR053305,,,2869,Industrial Organic Chemicals
+MAR053306,,,4212,"Local Trucking, Without Storage"
+MAR053307,,,2411,Logging
+MAR053313,,,3221,Glass Containers
+MAR053316,,,4581,"Airports, Flying Fields, & Services"
+MAR053318,,,4493,Marinas
+MAR053319,,,2092,Fresh Or Frozen Prepared Fish
+MAR053320,,,3732,Boat Building And Repairing
+MAR053324,,,2679,Converted Paper Products
+MAR053325,,,2951,Asphalt Paving Mixtures And Blocks
+MAR053326,,,3732,Boat Building And Repairing
+MAR053327,,,4493,Marinas
+MAR053328,,,4581,"Airports, Flying Fields, & Services"
+MAR053329,,,2951,Asphalt Paving Mixtures And Blocks
+MAR053331,,,5015,"Motor Vehicle Parts, Used"
+MAR053333,,,3732,Boat Building And Repairing
+MAR053335,,,4111,Local And Suburban Transit
+MAR053336,,,3732,Boat Building And Repairing
+MAR053337,,,5093,Scrap And Waste Materials
+MAR053339,,,4212,"Local Trucking, Without Storage"
+MAR053340,,,2842,Polishes And Sanitation Goods
+MAR053342,,,3316,Cold Finishing Of Steel Shapes
+MAR053347,,,3559,Special Industry Machinery
+MAR053351,,,3845,Electromedical Equipment
+MAR053354,,,5015,"Motor Vehicle Parts, Used"
+MAR053355,,,5093,Scrap And Waste Materials
+MAR053356,,,4212,"Local Trucking, Without Storage"
+MAR053357,,,3731,Ship Building And Repairing
+MAR053358,,,2821,Plastics Materials And Resins
+MAR053360,,,5093,Scrap And Waste Materials
+MAR053361,,,3724,Aircraft Engines And Engine Parts
+MAR053362,,,3732,Boat Building And Repairing
+MAR053363,,,4214,Local Trucking With Storage
+MAR053364,,,4212,"Local Trucking, Without Storage"
+MAR053365,,,4213,"Trucking, Except Local"
+MAR053366,,,3273,Ready-Mixed Concrete
+MAR053367,,,2026,Fluid Milk
+MAR053368,,,3086,Plastics Foam Products
+MAR053369,,,2051,"Bread, Cake, And Related Products"
+MAR053370,,,5093,Scrap And Waste Materials
+MAR053371,,,4581,"Airports, Flying Fields, & Services"
+MAR053372,,,2821,Plastics Materials And Resins
+MAR053373,,,4212,"Local Trucking, Without Storage"
+MAR053374,,,4212,"Local Trucking, Without Storage"
+MAR053375,,,4212,"Local Trucking, Without Storage"
+MAR053376,,,3724,Aircraft Engines And Engine Parts
+MAR053377,,,4493,Marinas
+MAR053378,,,1499,Miscellaneous Nonmetallic Minerals
+MAR053380,,,2951,Asphalt Paving Mixtures And Blocks
+MAR053381,,,4213,"Trucking, Except Local"
+MAR053382,,,2621,Paper Mills
+MAR053387,,,4213,"Trucking, Except Local"
+MAR053388,,,4213,"Trucking, Except Local"
+MAR053389,,,1429,Crushed And Broken Stone
+MAR053391,,,4493,Marinas
+MAR053392,,,2834,Pharmaceutical Preparations
+MAR053393,,,3081,Unsupported Plastics Film & Sheet
+MAR053394,,,2951,Asphalt Paving Mixtures And Blocks
+MAR053395,,,2951,Asphalt Paving Mixtures And Blocks
+MAR053396,,,3599,Industrial Machinery
+MAR053398,,,2951,Asphalt Paving Mixtures And Blocks
+MAR053399,,,2657,Folding Paperboard Boxes
+MAR053400,,,1429,Crushed And Broken Stone
+MAR053401,,,2951,Asphalt Paving Mixtures And Blocks
+MAR053402,,,3479,Metal Coating And Allied Services
+MAR053403,,,3823,Process Control Instruments
+MAR053404,,,1429,Crushed And Broken Stone
+MAR053405,,,2951,Asphalt Paving Mixtures And Blocks
+MAR053407,,,2951,Asphalt Paving Mixtures And Blocks
+MAR053408,,,2951,Asphalt Paving Mixtures And Blocks
+MAR053409,,,4151,School Buses
+MAR053410,,,5093,Scrap And Waste Materials
+MAR053411,,,4581,"Airports, Flying Fields, & Services"
+MAR053412,,,4493,Marinas
+MAR053413,,,3471,Plating And Polishing
+MAR053414,,,5015,"Motor Vehicle Parts, Used"
+MAR053415,,,5015,"Motor Vehicle Parts, Used"
+MAR053416,,,3732,Boat Building And Repairing
+MAR053417,,,5015,"Motor Vehicle Parts, Used"
+MAR053418,,,3732,Boat Building And Repairing
+MAR053419,,,2951,Asphalt Paving Mixtures And Blocks
+MAR053420,,,2411,Logging
+MAR053421,,,1442,Construction Sand And Gravel
+MAR053422,,,1429,Crushed And Broken Stone
+MAR053423,,,2796,Platemaking Services
+MAR053424,,,4212,"Local Trucking, Without Storage"
+MAR053426,,,4493,Marinas
+MAR053427,,,5093,Scrap And Waste Materials
+MAR053428,,,3271,Concrete Block And Brick
+MAR053430,,,1429,Crushed And Broken Stone
+MAR053431,,,2754,"Commercial Printing, Gravure"
+MAR053433,,,2951,Asphalt Paving Mixtures And Blocks
+MAR053435,,,4011,"Railroads, Line-Haul Operating"
+MAR053436,,,3423,Hand And Edge Tools
+MAR053439,,,4493,Marinas
+MAR053441,,,4011,"Railroads, Line-Haul Operating"
+MAR053443,,,4011,"Railroads, Line-Haul Operating"
+MAR053444,,,4493,Marinas
+MAR053445,,,2821,Plastics Materials And Resins
+MAR053446,,,5171,Petroleum Bulk Stations & Terminals
+MAR053448,,,4011,"Railroads, Line-Haul Operating"
+MAR053453,,,3312,Blast Furnaces And Steel Mills
+MAR053454,,,4011,"Railroads, Line-Haul Operating"
+MAR053455,,,4493,Marinas
+MAR053458,,,5093,Scrap And Waste Materials
+MAR053459,,,2013,Sausages And Other Prepared Meats
+MAR053460,,,4581,"Airports, Flying Fields, & Services"
+MAR053461,,,2491,Wood Preserving
+MAR053462,,,5093,Scrap And Waste Materials
+MAR053463,,,2952,Asphalt Felts And Coatings
+MAR053464,,,5093,Scrap And Waste Materials
+MAR053465,,,4212,"Local Trucking, Without Storage"
+MAR053466,,,5093,Scrap And Waste Materials
+MAR053467,,,5093,Scrap And Waste Materials
+MAR053468,,,4493,Marinas
+MAR053470,,,3732,Boat Building And Repairing
+MAR053471,,,2421,"Sawmills And Planing Mills, General"
+MAR053472,,,2891,Adhesives And Sealants
+MAR053476,,,2672,Paper Coated And Laminated
+MAR053477,,,4493,Marinas
+MAR053478,,,4142,"Bus Charter Service, Except Local"
+MAR053479,,,3087,Custom Compound Purchased Resins
+MAR053480,,,3499,Fabricated Metal Products
+MAR053481,,,3273,Ready-Mixed Concrete
+MAR053482,,,4493,Marinas
+MAR053483,,,4493,Marinas
+MAR053484,,,4493,Marinas
+MAR053485,,,3271,Concrete Block And Brick
+MAR053486,,,2295,"Coated Fabrics, Not Rubberized"
+MAR053487,,,4581,"Airports, Flying Fields, & Services"
+MAR053488,,,4011,"Railroads, Line-Haul Operating"
+MAR053489,,,3663,Radio & TV Communications Equipment
+MAR053490,,,3441,Fabricated Structural Metal
+MAR053491,,,3399,Primary Metal Products
+MAR053493,,,2819,Industrial Inorganic Chemicals
+MAR053494,,,4213,"Trucking, Except Local"
+MAR053495,,,4011,"Railroads, Line-Haul Operating"
+MAR053496,,,4213,"Trucking, Except Local"
+MAR053497,,,5093,Scrap And Waste Materials
+MAR053498,,,3732,Boat Building And Repairing
+MAR053499,,,2631,Paperboard Mills
+MAR053502,,,2951,Asphalt Paving Mixtures And Blocks
+MAR053503,,,4493,Marinas
+MAR053506,,,4581,"Airports, Flying Fields, & Services"
+MAR053507,,,2531,Public Building & Related Furniture
+MAR053508,,,4311,U.S. Postal Service
+MAR053509,,,4311,U.S. Postal Service
+MAR053510,,,3087,Custom Compound Purchased Resins
+MAR053511,,,3732,Boat Building And Repairing
+MAR053512,,,4011,"Railroads, Line-Haul Operating"
+MAR053513,,,2672,Paper Coated And Laminated
+MAR053514,,,3499,Fabricated Metal Products
+MAR053515,,,5015,"Motor Vehicle Parts, Used"
+MAR053516,,,4581,"Airports, Flying Fields, & Services"
+MAR053517,,,4212,"Local Trucking, Without Storage"
+MAR053518,,,4011,"Railroads, Line-Haul Operating"
+MAR053519,,,4011,"Railroads, Line-Haul Operating"
+MAR053520,,,5171,Petroleum Bulk Stations & Terminals
+MAR053521,,,5171,Petroleum Bulk Stations & Terminals
+MAR053522,,,2299,Textile Goods
+MAR053523,,,5171,Petroleum Bulk Stations & Terminals
+MAR053524,,,3324,Steel Investment Foundries
+MAR053525,,,2875,"Fertilizers, Mixing Only"
+MAR053526,,,4493,Marinas
+MAR053527,,,2851,Paints And Allied Products
+MAR053528,,,3312,Blast Furnaces And Steel Mills
+MAR053529,,,3732,Boat Building And Repairing
+MAR053530,,,2261,"Finishing Plants, Cotton"
+MAR053531,,,3273,Ready-Mixed Concrete
+MAR053532,,,4212,"Local Trucking, Without Storage"
+MAR053533,,,3398,Metal Heat Treating
+MAR053534,,,4212,"Local Trucking, Without Storage"
+MAR053536,,,4212,"Local Trucking, Without Storage"
+MAR053537,,,3732,Boat Building And Repairing
+MAR053538,,,5015,"Motor Vehicle Parts, Used"
+MAR053540,,,5015,"Motor Vehicle Parts, Used"
+MAR053541,,,4493,Marinas
+MAR053542,,,2657,Folding Paperboard Boxes
+MAR053543,,,2834,Pharmaceutical Preparations
+MAR053544,,,3446,Architectural Metal Work
+MAR053545,,,2834,Pharmaceutical Preparations
+MAR053546,,,3443,Fabricated Plate Work (Boiler Shops)
+MAR053547,,,3443,Fabricated Plate Work (Boiler Shops)
+MAR053548,,,4213,"Trucking, Except Local"
+MAR053549,,,4213,"Trucking, Except Local"
+MAR053550,,,4213,"Trucking, Except Local"
+MAR053551,,,3732,Boat Building And Repairing
+MAR053552,,,4151,School Buses
+MAR053553,,,4151,School Buses
+MAR053554,,,4151,School Buses
+MAR053555,,,3732,Boat Building And Repairing
+MAR053556,,,4151,School Buses
+MAR053557,,,5093,Scrap And Waste Materials
+MAR053558,,,3444,Sheet Metal Work
+MAR053559,,,4493,Marinas
+MAR053560,,,4212,"Local Trucking, Without Storage"
+MAR053561,,,3732,Boat Building And Repairing
+MAR053562,,,3732,Boat Building And Repairing
+MAR053563,,,3731,Ship Building And Repairing
+MAR053564,,,3732,Boat Building And Repairing
+MAR053567,,,2092,Fresh Or Frozen Prepared Fish
+MAR053568,,,4213,"Trucking, Except Local"
+MAR053569,,,3732,Boat Building And Repairing
+MAR053570,,,5093,Scrap And Waste Materials
+MAR053571,,,4493,Marinas
+MAR053572,,,3732,Boat Building And Repairing
+MAR053573,,,3273,Ready-Mixed Concrete
+MAR053574,,,3273,Ready-Mixed Concrete
+MAR053575,,,1429,Crushed And Broken Stone
+MAR053576,,,5093,Scrap And Waste Materials
+MAR053577,,,3272,Concrete Products
+MAR053578,,,4493,Marinas
+MAR053579,,,4215,"Courier Services, Except By Air"
+MAR053584,,,5015,"Motor Vehicle Parts, Used"
+MAR053585,,,3731,Ship Building And Repairing
+MAR053586,,,3069,Fabricated Rubber Products
+MAR053587,,,3471,Plating And Polishing
+MAR053589,,,4493,Marinas
+MAR053590,,,4212,"Local Trucking, Without Storage"
+MAR053591,,,1411,Dimension Stone
+MAR053596,,,2951,Asphalt Paving Mixtures And Blocks
+MAR053597,,,2951,Asphalt Paving Mixtures And Blocks
+MAR053598,,,3441,Fabricated Structural Metal
+MAR053599,,,2951,Asphalt Paving Mixtures And Blocks
+MAR053601,,,4491,Marine Cargo Handling
+MAR053602,,,1429,Crushed And Broken Stone
+MAR053604,,,4213,"Trucking, Except Local"
+MAR053605,,,4213,"Trucking, Except Local"
+MAR053606,,,2024,Ice Cream And Frozen Desserts
+MAR053610,,,1429,Crushed And Broken Stone
+MAR053611,,,3732,Boat Building And Repairing
+MAR053613,,,4213,"Trucking, Except Local"
+MAR053614,,,4311,U.S. Postal Service
+MAR053615,,,4311,U.S. Postal Service
+MAR053619,,,2672,Paper Coated And Laminated
+MAR053620,,,5093,Scrap And Waste Materials
+MAR053623,,,5015,"Motor Vehicle Parts, Used"
+MAR053624,,,2051,"Bread, Cake, And Related Products"
+MAR053625,,,2051,"Bread, Cake, And Related Products"
+MAR053626,,,4493,Marinas
+MAR053627,,,5093,Scrap And Waste Materials
+MAR053628,,,5015,"Motor Vehicle Parts, Used"
+MAR053629,,,5093,Scrap And Waste Materials
+MAR053631,,,2951,Asphalt Paving Mixtures And Blocks
+MAR053632,,,5093,Scrap And Waste Materials
+MAR053633,,,3731,Ship Building And Repairing
+MAR053634,,,2026,Fluid Milk
+MAR053636,,,3462,Iron And Steel Forgings
+MAR053637,,,3471,Plating And Polishing
+MAR053638,,,4215,"Courier Services, Except By Air"
+MAR053639,,,4215,"Courier Services, Except By Air"
+MAR053640,,,4215,"Courier Services, Except By Air"
+MAR053642,,,3423,Hand And Edge Tools
+MAR053643,,,3087,Custom Compound Purchased Resins
+MAR053644,,,2013,Sausages And Other Prepared Meats
+MAR053645,,,4493,Marinas
+MAR053646,,,1442,Construction Sand And Gravel
+MAR053649,,,4111,Local And Suburban Transit
+MAR053650,,,3841,Surgical And Medical Instruments
+MAR053651,,,3599,Industrial Machinery
+MAR053653,,,5015,"Motor Vehicle Parts, Used"
+MAR053654,,,3732,Boat Building And Repairing
+MAR053655,,,4231,Trucking Terminal Facilities
+MAR053656,,,2092,Fresh Or Frozen Prepared Fish
+MAR053657,,,5015,"Motor Vehicle Parts, Used"
+MAR053660,,,4581,"Airports, Flying Fields, & Services"
+MAR053661,,,3721,Aircraft
+MAR053662,,,4213,"Trucking, Except Local"
+MAR053663,,,4213,"Trucking, Except Local"
+MAR053664,,,2653,Corrugated And Solid Fiber Boxes
+MAR053665,,,5015,"Motor Vehicle Parts, Used"
+MAR053666,,,3732,Boat Building And Repairing
+MAR053667,,,3841,Surgical And Medical Instruments
+MAR053668,,,3732,Boat Building And Repairing
+MAR053669,,,4581,"Airports, Flying Fields, & Services"
+MAR053670,,,5015,"Motor Vehicle Parts, Used"
+MAR053671,,,4493,Marinas
+MAR053675,,,2819,Industrial Inorganic Chemicals
+MAR053677,,,3732,Boat Building And Repairing
+MAR053678,,,1422,Crushed And Broken Limestone
+MAR053682,,,3085,Plastics Bottles
+MAR053683,,,3273,Ready-Mixed Concrete
+MAR053684,,,3273,Ready-Mixed Concrete
+MAR053685,,,3273,Ready-Mixed Concrete
+MAR053686,,,3273,Ready-Mixed Concrete
+MAR053688,,,2677,Envelopes
+MAR053690,,,2899,Chemical Preparations
+MAR053691,,,2653,Corrugated And Solid Fiber Boxes
+MAR053693,,,5015,"Motor Vehicle Parts, Used"
+MAR053696,,,3082,Unsupported Plastics Profile Shapes
+MAR053697,,,4214,Local Trucking With Storage
+MAR053698,,,4214,Local Trucking With Storage
+MAR053699,,,4214,Local Trucking With Storage
+MAR053700,,,4214,Local Trucking With Storage
+MAR053701,,,5015,"Motor Vehicle Parts, Used"
+MAR053702,,,3089,Plastics Products
+MAR053703,,,3732,Boat Building And Repairing
+MAR053705,,,4111,Local And Suburban Transit
+MAR053706,,,2951,Asphalt Paving Mixtures And Blocks
+MAR053707,,,2869,Industrial Organic Chemicals
+MAR053708,,,4311,U.S. Postal Service
+MAR053709,,,4311,U.S. Postal Service
+MAR053711,,,4111,Local And Suburban Transit
+MAR053712,,,5093,Scrap And Waste Materials
+MAR053714,,,5093,Scrap And Waste Materials
+MAR053715,,,4493,Marinas
+MAR053716,,,3411,Metal Cans
+MAR053717,,,3732,Boat Building And Repairing
+MAR053718,,,4581,"Airports, Flying Fields, & Services"
+MAR053720,,,2813,Industrial Gases
+MAR053721,,,3999,Manufacturing Industries
+MAR053722,,,4493,Marinas
+MAR053726,,,3732,Boat Building And Repairing
+MAR053728,,,4215,"Courier Services, Except By Air"
+MAR053729,,,4215,"Courier Services, Except By Air"
+MAR053733,,,4215,"Courier Services, Except By Air"
+MAR053734,,,4215,"Courier Services, Except By Air"
+MAR053735,,,4215,"Courier Services, Except By Air"
+MAR053736,,,4215,"Courier Services, Except By Air"
+MAR053737,,,4215,"Courier Services, Except By Air"
+MAR053738,,,4493,Marinas
+MAR053739,,,4581,"Airports, Flying Fields, & Services"
+MAR053740,,,4412,Deep Sea Foreign Trans. Of Freight
+MAR053745,,,2851,Paints And Allied Products
+MAR053747,,,4212,"Local Trucking, Without Storage"
+MAR053748,,,4491,Marine Cargo Handling
+MAR053750,,,2299,Textile Goods
+MAR053752,,,3471,Plating And Polishing
+MAR053753,,,4493,Marinas
+MAR053754,,,3087,Custom Compound Purchased Resins
+MAR053755,,,3272,Concrete Products
+MAR053756,,,4493,Marinas
+MAR053758,,,4213,"Trucking, Except Local"
+MAR053760,,,3272,Concrete Products
+MAR053761,,,3272,Concrete Products
+MAR053763,,,4493,Marinas
+MAR053764,,,4493,Marinas
+MAR053765,,,2821,Plastics Materials And Resins
+MAR053766,,,3732,Boat Building And Repairing
+MAR053767,,,4581,"Airports, Flying Fields, & Services"
+MAR053769,,,1442,Construction Sand And Gravel
+MAR053770,,,2951,Asphalt Paving Mixtures And Blocks
+MAR053771,,,2951,Asphalt Paving Mixtures And Blocks
+MAR053772,,,2011,Meat Packing Plants
+MAR053773,,,2033,Canned Fruits And Vegetables
+MAR053774,,,4493,Marinas
+MAR053775,,,3732,Boat Building And Repairing
+MAR053777,,,3089,Plastics Products
+MAR053778,,,3089,Plastics Products
+MAR053784,,,1429,Crushed And Broken Stone
+MAR053785,,,2851,Paints And Allied Products
+MAR053786,,,2231,"Broadwoven Fabric Mills, Wool"
+MAR053787,,,2231,"Broadwoven Fabric Mills, Wool"
+MAR053789,,,5093,Scrap And Waste Materials
+MAR053792,,,3444,Sheet Metal Work
+MAR053793,,,3444,Sheet Metal Work
+MAR053795,,,4493,Marinas
+MAR053796,,,2522,"Office Furniture, Except Wood"
+MAR053798,,,4493,Marinas
+MAR053800,,,5093,Scrap And Waste Materials
+MAR053801,,,4493,Marinas
+MAR053802,,,5093,Scrap And Waste Materials
+MAR053804,,,4493,Marinas
+MAR053807,,,2491,Wood Preserving
+MAR053808,,,2491,Wood Preserving
+MAR053809,,,4493,Marinas
+MAR053810,,,4214,Local Trucking With Storage
+MAR053811,,,4213,"Trucking, Except Local"
+MAR053813,,,5171,Petroleum Bulk Stations & Terminals
+MAR053816,,,3272,Concrete Products
+MAR053817,,,4493,Marinas
+MAR053820,,,5093,Scrap And Waste Materials
+MAR053821,,,1442,Construction Sand And Gravel
+MAR053822,,,1411,Dimension Stone
+MAR053825,,,2951,Asphalt Paving Mixtures And Blocks
+MAR053826,,,2951,Asphalt Paving Mixtures And Blocks
+MAR053827,,,2951,Asphalt Paving Mixtures And Blocks
+MAR053829,,,3599,Industrial Machinery
+MAR053837,,,3271,Concrete Block And Brick
+MAR053839,,,2899,Chemical Preparations
+MAR053840,,,4581,"Airports, Flying Fields, & Services"
+MAR053844,,,2023,"Dry, Condensed, Evaporated Products"
+MAR053845,,,2051,"Bread, Cake, And Related Products"
+MAR053847,,,3441,Fabricated Structural Metal
+MAR053849,,,4493,Marinas
+MAR053850,,,3231,Products Of Purchased Glass
+MAR053851,,,3444,Sheet Metal Work
+MAR053854,,,2099,Food Preparations
+MAR053855,,,4225,General Warehousing And Storage
+MAR053865,,,4493,Marinas
+MAR053866,,,4493,Marinas
+MAR053867,,,5093,Scrap And Waste Materials
+MAR053868,,,3316,Cold Finishing Of Steel Shapes
+MAR053872,,,3087,Custom Compound Purchased Resins
+MAR053874,,,2026,Fluid Milk
+MAR053877,,,2052,Cookies And Crackers
+MAR053878,,,5015,"Motor Vehicle Parts, Used"
+MAR053879,,,3732,Boat Building And Repairing
+MAR053880,,,4581,"Airports, Flying Fields, & Services"
+MAR053881,,,1442,Construction Sand And Gravel
+MAR053882,,,4493,Marinas
+MAR053883,,,3724,Aircraft Engines And Engine Parts
+MAR053884,,,3724,Aircraft Engines And Engine Parts
+MAR053887,,,5093,Scrap And Waste Materials
+MAR053889,,,3273,Ready-Mixed Concrete
+MAR053890,,,4212,"Local Trucking, Without Storage"
+MAR053892,,,3915,Jewelers* Materials & Lapidary Work
+MAR053898,,,4493,Marinas
+MAR053899,,,3732,Boat Building And Repairing
+MAR053900,,,4493,Marinas
+MAR053901,,,5015,"Motor Vehicle Parts, Used"
+MAR053910,,,4311,U.S. Postal Service
+MAR053913,,,3089,Plastics Products
+MAR053914,,,2087,Flavoring Extracts And Syrups
+MAR053915,,,4493,Marinas
+MAR053920,,,4493,Marinas
+MAR053923,,,4493,Marinas
+MAR053928,,,1429,Crushed And Broken Stone
+MAR053932,,,3732,Boat Building And Repairing
+MAR053933,,,4225,General Warehousing And Storage
+MAR053935,,,2448,Wood Pallets And Skids
+MAR053939,,,3272,Concrete Products
+MAR053944,,,3443,Fabricated Plate Work (Boiler Shops)
+MAR053946,,,5015,"Motor Vehicle Parts, Used"
+MAR053951,,,2295,"Coated Fabrics, Not Rubberized"
+MAR053954,,,4213,"Trucking, Except Local"
+MAR053955,,,4213,"Trucking, Except Local"
+MAR053956,,,4213,"Trucking, Except Local"
+MAR053957,,,4213,"Trucking, Except Local"
+MAR053958,,,4493,Marinas
+MAR053960,,,3429,"Hardware, Not Elsewhere Classified"
+MAR053961,,,4231,Trucking Terminal Facilities
+MAR053964,,,4212,"Local Trucking, Without Storage"
+MAR053966,,,4493,Marinas
+MAR053967,,,4151,School Buses
+MAR053974,,,3732,Boat Building And Repairing
+MAR053975,,,3089,Plastics Products
+MAR053979,,,1442,Construction Sand And Gravel
+MAR053982,,,2499,Wood Products
+MAR053986,,,4151,School Buses
+MAR053987,,,4151,School Buses
+MAR053991,,,2951,Asphalt Paving Mixtures And Blocks
+MAR053993,,,3273,Ready-Mixed Concrete
+MAR053994,,,3842,Surgical Appliances And Supplies
+MAR053995,,,3089,Plastics Products
+MAR053996,,,4212,"Local Trucking, Without Storage"
+MAR053997,,,4493,Marinas
+MAR054005,,,4225,General Warehousing And Storage
+MAR054008,,,2421,"Sawmills And Planing Mills, General"
+MAR054010,,,1422,Crushed And Broken Limestone
+MAR054014,,,3271,Concrete Block And Brick
+MAR054016,,,3231,Products Of Purchased Glass
+MAR054022,,,3732,Boat Building And Repairing
+MAR054027,,,1442,Construction Sand And Gravel
+MAR054028,,,5093,Scrap And Waste Materials
+MAR054029,,,5015,"Motor Vehicle Parts, Used"
+MAR054035,,,2671,"Paper Coated & Laminated, Packaging"
+MAR054037,,,2024,Ice Cream And Frozen Desserts
+MAR054041,,,1442,Construction Sand And Gravel
+MAR054047,,,2086,Bottled And Canned Soft Drinks
+MAR054050,,,2448,Wood Pallets And Skids
+MAR054054,,,4493,Marinas
+MAR054057,,,3561,Pumps And Pumping Equipment
+MAR054059,,,1429,Crushed And Broken Stone
+MAR054060,,,1429,Crushed And Broken Stone
+MAR054061,,,5171,Petroleum Bulk Stations & Terminals
+MAR054065,,,4493,Marinas
+MAR054070,,,5171,Petroleum Bulk Stations & Terminals
+MAR054072,,,3086,Plastics Foam Products
+MAR054073,,,3441,Fabricated Structural Metal
+MAR054078,,,4225,General Warehousing And Storage
+MAR054079,,,4493,Marinas
+MAR054080,,,2297,Nonwoven Fabrics
+MAR054084,,,2891,Adhesives And Sealants
+MAR05B926,,,4911,Electric Services
+MAR05C046,,,3273,Ready-Mixed Concrete
+MAR05J000,,,4493,Marinas
+MAR05J001,,,2038,Frozen Specialties
+MAR05J003,,,3273,Ready-Mixed Concrete
+MAR05J004,,,4222,Refrigerated Warehousing And Storage
+MAR05J007,,,2951,Asphalt Paving Mixtures And Blocks
+MAR05J009,,,1442,Construction Sand And Gravel
+MAR05J00A,,,2951,Asphalt Paving Mixtures And Blocks
+MAR05J00C,,,1442,Construction Sand And Gravel
+MAR05J00D,,,3731,Ship Building And Repairing
+MAR05J00E,,,3841,Surgical And Medical Instruments
+MAR05J00F,,,4581,"Airports, Flying Fields, & Services"
+MAR05J00G,,,3732,Boat Building And Repairing
+MAR05J00H,,,3273,Ready-Mixed Concrete
+MAR05J00I,,,3273,Ready-Mixed Concrete
+MAR05J00J,,,1411,Dimension Stone
+MAR05J00K,,,3732,Boat Building And Repairing
+MAR05J00L,,,2869,Industrial Organic Chemicals
+MAR05J00M,,,2099,Food Preparations
+MAR05J00N,,,1422,Crushed And Broken Limestone
+MAR05J00O,,,3827,Optical Instruments And Lenses
+MAR05J00P,,,4226,Special Warehousing And Storage
+MAR05J00Q,,,2421,"Sawmills And Planing Mills, General"
+MAR05J00R,,,4111,Local And Suburban Transit
+MAR05J00S,,,3087,Custom Compound Purchased Resins
+MAR05J00T,,,3357,Nonferrous Wiredrawing & Insulating
+MAR05J00U,,,1442,Construction Sand And Gravel
+MAR05J00V,,,1423,Crushed And Broken Granite
+MAR05J00W,,,3471,Plating And Polishing
+MAR05J00X,,,3484,Small Arms
+MAR05J00Y,,,4151,School Buses
+MAR05J00Z,,,3082,Unsupported Plastics Profile Shapes
+MAR05J010,,,2679,Converted Paper Products
+MAR05J012,,,5015,"Motor Vehicle Parts, Used"
+MAR05J013,,,5093,Scrap And Waste Materials
+MAR05J014,,,3272,Concrete Products
+MAR05J016,,,3479,Metal Coating And Allied Services
+MAR05J017,,,4493,Marinas
+MAR05J019,,,4225,General Warehousing And Storage
+MAR05J01A,,,2834,Pharmaceutical Preparations
+MAR05J01B,,,3463,Nonferrous Forgings
+MAR05J01C,,,4491,Marine Cargo Handling
+MAR05J01D,,,5093,Scrap And Waste Materials
+MAR05J01E,,,4214,Local Trucking With Storage
+MAR05J01G,,,4111,Local And Suburban Transit
+MAR05J01H,,,3585,Refrigeration And Heating Equipment
+MAR05J01I,,,2399,Fabricated Textile Products
+MAR05J01J,,,3357,Nonferrous Wiredrawing & Insulating
+MAR05J01K,,,2421,"Sawmills And Planing Mills, General"
+MAR05J01L,,,3732,Boat Building And Repairing
+MAR05J01M,,,1429,Crushed And Broken Stone
+MAR05J01N,,,3271,Concrete Block And Brick
+MAR05J01O,,,2038,Frozen Specialties
+MAR05J01P,,,2099,Food Preparations
+MAR05J01Q,,,5093,Scrap And Waste Materials
+MAR05J01R,,,4225,General Warehousing And Storage
+MAR05J01S,,,5093,Scrap And Waste Materials
+MAR05J01T,,,2411,Logging
+MAR05J01U,,,4213,"Trucking, Except Local"
+MAR05J01V,,,4213,"Trucking, Except Local"
+MAR05J01W,,,4225,General Warehousing And Storage
+MAR05J01X,,,2899,Chemical Preparations
+MAR05J01Y,,,4225,General Warehousing And Storage
+MAR05J01Z,,,2024,Ice Cream And Frozen Desserts
+MAR05J020,,,2026,Fluid Milk
+MAR05J021,,,2891,Adhesives And Sealants
+MAR05J022,,,4226,Special Warehousing And Storage
+MAR05J023,,,3732,Boat Building And Repairing
+MAR05J024,,,5093,Scrap And Waste Materials
+MAR05J025,,,1442,Construction Sand And Gravel
+MAR05J026,,,2411,Logging
+MAR05J029,,,4493,Marinas
+MAR05J02B,,,3357,Nonferrous Wiredrawing & Insulating
+MAR05J02C,,,4222,Refrigerated Warehousing And Storage
+MAR05J02D,,,4111,Local And Suburban Transit
+MAR05J02E,,,4111,Local And Suburban Transit
+MAR05J02F,,,4111,Local And Suburban Transit
+MAR05J02G,,,4111,Local And Suburban Transit
+MAR05J02H,,,4111,Local And Suburban Transit
+MAR05J02I,,,2411,Logging
+MAR05J02J,,,4214,Local Trucking With Storage
+MAR05J02K,,,2951,Asphalt Paving Mixtures And Blocks
+MAR05J02L,,,2821,Plastics Materials And Resins
+MAR05J02M,,,3291,Abrasive Products
+MAR05J02N,,,3731,Ship Building And Repairing
+MAR05J02O,,,3731,Ship Building And Repairing
+MAR05J02P,,,2448,Wood Pallets And Skids
+MAR05J02Q,,,4225,General Warehousing And Storage
+MAR05J02R,,,4225,General Warehousing And Storage
+MAR05J02T,,,4225,General Warehousing And Storage
+MAR05J02U,,,4225,General Warehousing And Storage
+MAR05J02V,,,4225,General Warehousing And Storage
+MAR05J02W,,,4225,General Warehousing And Storage
+MAR05J02X,,,4581,"Airports, Flying Fields, & Services"
+MAR05J02Z,,,4111,Local And Suburban Transit
+MAR05J031,,,4225,General Warehousing And Storage
+MAR05J032,,,4225,General Warehousing And Storage
+MAR05J033,,,5093,Scrap And Waste Materials
+MAR05J038,,,2951,Asphalt Paving Mixtures And Blocks
+MAR05J039,,,4581,"Airports, Flying Fields, & Services"
+MAR05J03B,,,4214,Local Trucking With Storage
+MAR05J03C,,,4225,General Warehousing And Storage
+MAR05J03D,,,4493,Marinas
+MAR05J03E,,,4225,General Warehousing And Storage
+MAR05J03F,,,4225,General Warehousing And Storage
+MAR05J03G,,,4214,Local Trucking With Storage
+MAR05J03H,,,4214,Local Trucking With Storage
+MAR05J03I,,,4214,Local Trucking With Storage
+MAR05J03J,,,3291,Abrasive Products
+MAR05J03K,,,3291,Abrasive Products
+MAR05J03L,,,4214,Local Trucking With Storage
+MAR05J03M,,,3357,Nonferrous Wiredrawing & Insulating
+MAR05J03N,,,4212,"Local Trucking, Without Storage"
+MAR05J03O,,,4013,Switching And Terminal Services
+MAR05J03P,,,2082,Malt Beverages
+MAR05J03R,,,4493,Marinas
+MAR05J03S,,,2033,Canned Fruits And Vegetables
+MAR05J03T,,,2821,Plastics Materials And Resins
+MAR05J03U,,,3425,Saw Blades And Handsaws
+MAR05J03V,,,4581,"Airports, Flying Fields, & Services"
+MAR05J03W,,,4212,"Local Trucking, Without Storage"
+MAR05J03X,,,4214,Local Trucking With Storage
+MAR05J042,,,1442,Construction Sand And Gravel
+MAR05J043,,,5093,Scrap And Waste Materials
+MAR05J044,,,5093,Scrap And Waste Materials
+MAR05J045,,,2869,Industrial Organic Chemicals
+MAR05J046,,,4222,Refrigerated Warehousing And Storage
+MAR05J047,,,4214,Local Trucking With Storage
+MAR05J048,,,4493,Marinas
+MAR05J049,,,4212,"Local Trucking, Without Storage"
+MAR05J04B,,,5093,Scrap And Waste Materials
+MAR05J04C,,,3273,Ready-Mixed Concrete
+MAR05J04D,,,4013,Switching And Terminal Services
+MAR05J04E,,,2951,Asphalt Paving Mixtures And Blocks
+MAR05J04F,,,4493,Marinas
+MAR05J04G,,,3479,Metal Coating And Allied Services
+MAR05J04H,,,3081,Unsupported Plastics Film & Sheet
+MAR05J04I,,,4215,"Courier Services, Except By Air"
+MAR05J04J,,,5093,Scrap And Waste Materials
+MAR05J04K,,,5093,Scrap And Waste Materials
+MAR05J04L,,,2491,Wood Preserving
+MAR05J04O,,,3844,X-Ray Apparatus And Tubes
+MAR05J04P,,,4212,"Local Trucking, Without Storage"
+MAR05J04Q,,,4212,"Local Trucking, Without Storage"
+MAR05J04R,,,4212,"Local Trucking, Without Storage"
+MAR05J04S,,,4212,"Local Trucking, Without Storage"
+MAR05J04T,,,4522,"Air Transportation, Nonscheduled"
+MAR05J04V,,,3732,Boat Building And Repairing
+MAR05J04W,,,2024,Ice Cream And Frozen Desserts
+MAR05J04X,,,3732,Boat Building And Repairing
+MAR05J04Y,,,4225,General Warehousing And Storage
+MAR05J04Z,,,3732,Boat Building And Repairing
+MAR05J050,,,4493,Marinas
+MAR05J051,,,3272,Concrete Products
+MAR05J052,,,1442,Construction Sand And Gravel
+MAR05J053,,,3582,Commercial Laundry Equipment
+MAR05J054,,,4581,"Airports, Flying Fields, & Services"
+MAR05J056,,,3231,Products Of Purchased Glass
+MAR05J057,,,4225,General Warehousing And Storage
+MAR05J058,,,2891,Adhesives And Sealants
+MAR05J059,,,4522,"Air Transportation, Nonscheduled"
+MAR05J05A,,,4581,"Airports, Flying Fields, & Services"
+MAR05J05C,,,4225,General Warehousing And Storage
+MAR05J05D,,,1442,Construction Sand And Gravel
+MAR05J05E,,,4225,General Warehousing And Storage
+MAR05J05H,,,4111,Local And Suburban Transit
+MAR05J05J,,,4213,"Trucking, Except Local"
+MAR05J05K,,,4213,"Trucking, Except Local"
+MAR05J05L,,,2092,Fresh Or Frozen Prepared Fish
+MAR05J05M,,,3443,Fabricated Plate Work (Boiler Shops)
+MAR05J05O,,,4581,"Airports, Flying Fields, & Services"
+MAR05J05P,,,4231,Trucking Terminal Facilities
+MAR05J05Q,,,2421,"Sawmills And Planing Mills, General"
+MAR05J05R,,,3732,Boat Building And Repairing
+MAR05J05S,,,4493,Marinas
+MAR05J05T,,,4493,Marinas
+MAR05J05U,,,4493,Marinas
+MAR05J05V,,,4493,Marinas
+MAR05J05W,,,3613,Switchgear And Switchboard Apparatus
+MAR05J05X,,,2951,Asphalt Paving Mixtures And Blocks
+MAR05J05Y,,,3089,Plastics Products
+MAR05J05Z,,,5015,"Motor Vehicle Parts, Used"
+MAR05J060,,,4493,Marinas
+MAR05J061,,,4493,Marinas
+MAR05J062,,,3732,Boat Building And Repairing
+MAR05J063,,,3732,Boat Building And Repairing
+MAR05J064,,,1429,Crushed And Broken Stone
+MAR05J065,,,3732,Boat Building And Repairing
+MAR05J066,,,5093,Scrap And Waste Materials
+MAR05J067,,,5093,Scrap And Waste Materials
+MAR05J068,,,5093,Scrap And Waste Materials
+MAR05J069,,,4493,Marinas
+MAR05J06A,,,4225,General Warehousing And Storage
+MAR05J06B,,,4493,Marinas
+MAR05J06C,,,3731,Ship Building And Repairing
+MAR05J06D,,,4512,"Air Transportation, Scheduled"
+MAR05J06E,,,5015,"Motor Vehicle Parts, Used"
+MAR05J06F,,,2899,Chemical Preparations
+MAR05J06G,,,3841,Surgical And Medical Instruments
+MAR05J06H,,,5093,Scrap And Waste Materials
+MAR05J06I,,,5171,Petroleum Bulk Stations & Terminals
+MAR05J06J,,,4225,General Warehousing And Storage
+MAR05J06K,,,4225,General Warehousing And Storage
+MAR05J06L,,,4493,Marinas
+MAR05J06M,,,4225,General Warehousing And Storage
+MAR05J06O,,,5093,Scrap And Waste Materials
+MAR05J06P,,,3089,Plastics Products
+MAR05J06Q,,,4493,Marinas
+MAR05J06R,,,4212,"Local Trucking, Without Storage"
+MAR05J06S,,,4213,"Trucking, Except Local"
+MAR05J06T,,,5093,Scrap And Waste Materials
+MAR05J06U,,,4225,General Warehousing And Storage
+MAR05J06V,,,4225,General Warehousing And Storage
+MAR05J06W,,,2452,Prefabricated Wood Buildings
+MAR05J06X,,,4226,Special Warehousing And Storage
+MAR05J06Y,,,5015,"Motor Vehicle Parts, Used"
+MAR05J06Z,,,4225,General Warehousing And Storage
+MAR05J071,,,4491,Marine Cargo Handling
+MAR05J072,,,1442,Construction Sand And Gravel
+MAR05J073,,,1442,Construction Sand And Gravel
+MAR05J074,,,2851,Paints And Allied Products
+MAR05J075,,,5093,Scrap And Waste Materials
+MAR05J076,,,2836,Biological Products Except Diagnostic
+MAR05J077,,,4212,"Local Trucking, Without Storage"
+MAR05J078,,,4212,"Local Trucking, Without Storage"
+MAR05J079,,,3444,Sheet Metal Work
+MAR05J07A,,,3732,Boat Building And Repairing
+MAR05J07B,,,3599,Industrial Machinery
+MAR05J07C,,,4214,Local Trucking With Storage
+MAR05J07D,,,4212,"Local Trucking, Without Storage"
+MAR05J07E,,,2653,Corrugated And Solid Fiber Boxes
+MAR05J07F,,,5093,Scrap And Waste Materials
+MAR05J07G,,,2813,Industrial Gases
+MAR05J07H,,,4493,Marinas
+MAR05J07J,,,3271,Concrete Block And Brick
+MAR05J07K,,,4225,General Warehousing And Storage
+MAR05J07L,,,4493,Marinas
+MAR05J07M,,,4493,Marinas
+MAR05J07N,,,2295,"Coated Fabrics, Not Rubberized"
+MAR05J07O,,,5093,Scrap And Waste Materials
+MAR05J07P,,,4493,Marinas
+MAR05J07Q,,,4499,Water Transportation Services
+MAR05J07R,,,3271,Concrete Block And Brick
+MAR05J07S,,,4581,"Airports, Flying Fields, & Services"
+MAR05J07T,,,4581,"Airports, Flying Fields, & Services"
+MAR05J07U,,,4212,"Local Trucking, Without Storage"
+MAR05J07V,,,5015,"Motor Vehicle Parts, Used"
+MAR05J07W,,,3272,Concrete Products
+MAR05J07X,,,2051,"Bread, Cake, And Related Products"
+MAR05J07Y,,,3086,Plastics Foam Products
+MAR05J07Z,,,3999,Manufacturing Industries
+MAR05J080,,,4231,Trucking Terminal Facilities
+MAR05J081,,,4493,Marinas
+MAR05J082,,,3732,Boat Building And Repairing
+MAR05J083,,,4581,"Airports, Flying Fields, & Services"
+MAR05J084,,,4581,"Airports, Flying Fields, & Services"
+MAR05J086,,,4151,School Buses
+MAR05J087,,,5093,Scrap And Waste Materials
+MAR05J088,,,5093,Scrap And Waste Materials
+MAR05J089,,,4212,"Local Trucking, Without Storage"
+MAR05J08A,,,5015,"Motor Vehicle Parts, Used"
+MAR05J08B,,,1321,Natural Gas Liquids
+MAR05J08C,,,3087,Custom Compound Purchased Resins
+MAR05J08D,,,5171,Petroleum Bulk Stations & Terminals
+MAR05J08E,,,3085,Plastics Bottles
+MAR05J08F,,,3671,Electron Tubes
+MAR05J08G,,,5093,Scrap And Waste Materials
+MAR05J08H,,,4212,"Local Trucking, Without Storage"
+MAR05J08I,,,4212,"Local Trucking, Without Storage"
+MAR05J08J,,,3732,Boat Building And Repairing
+MAR05J08K,,,4213,"Trucking, Except Local"
+MAR05J08L,,,2842,Polishes And Sanitation Goods
+MAR05J08M,,,3731,Ship Building And Repairing
+MAR05J08N,,,4225,General Warehousing And Storage
+MAR05J08O,,,2653,Corrugated And Solid Fiber Boxes
+MAR05J08S,,,5093,Scrap And Waste Materials
+MAR05J08T,,,4225,General Warehousing And Storage
+MAR05J08U,,,4225,General Warehousing And Storage
+MAR05J08V,,,2077,Animal And Marine Fats And Oils
+MAR05J08W,,,3089,Plastics Products
+MAR05J08X,,,2079,Edible Fats And Oils
+MAR05J08Y,,,4213,"Trucking, Except Local"
+MAR05J08Z,,,4011,"Railroads, Line-Haul Operating"
+MAR05J090,,,4493,Marinas
+MAR05J091,,,5093,Scrap And Waste Materials
+MAR05J092,,,4111,Local And Suburban Transit
+MAR05J093,,,4111,Local And Suburban Transit
+MAR05J094,,,1411,Dimension Stone
+MAR05J096,,,4212,"Local Trucking, Without Storage"
+MAR05J098,,,2295,"Coated Fabrics, Not Rubberized"
+MAR05J099,,,4151,School Buses
+MAR05J09B,,,4151,School Buses
+MAR05J09C,,,4151,School Buses
+MAR05J09D,,,4213,"Trucking, Except Local"
+MAR05J09E,,,4119,Local Passenger Transportation
+MAR05J09F,,,4212,"Local Trucking, Without Storage"
+MAR05J09G,,,3081,Unsupported Plastics Film & Sheet
+MAR05J09H,,,5093,Scrap And Waste Materials
+MAR05J09I,,,4581,"Airports, Flying Fields, & Services"
+MAR05J09J,,,4212,"Local Trucking, Without Storage"
+MAR05J09K,,,2951,Asphalt Paving Mixtures And Blocks
+MAR05J09L,,,4213,"Trucking, Except Local"
+MAR05J09M,,,4212,"Local Trucking, Without Storage"
+MAR05J09N,,,3271,Concrete Block And Brick
+MAR05J09O,,,3229,Pressed And Blown Glass
+MAR05J09P,,,4213,"Trucking, Except Local"
+MAR05J09R,,,3732,Boat Building And Repairing
+MAR05J09T,,,2851,Paints And Allied Products
+MAR05J09U,,,3585,Refrigeration And Heating Equipment
+MAR05J09V,,,3312,Blast Furnaces And Steel Mills
+MAR05J09W,,,4213,"Trucking, Except Local"
+MAR05J09X,,,4213,"Trucking, Except Local"
+MAR05J09Y,,,4213,"Trucking, Except Local"
+MAR05J09Z,,,2657,Folding Paperboard Boxes
+MAR05J0A0,,,4111,Local And Suburban Transit
+MAR05J0A1,,,4111,Local And Suburban Transit
+MAR05J0A2,,,3713,Truck And Bus Bodies
+MAR05J0A3,,,2051,"Bread, Cake, And Related Products"
+MAR05J0A4,,,2051,"Bread, Cake, And Related Products"
+MAR05J0A5,,,2051,"Bread, Cake, And Related Products"
+MAR05J0A7,,,3448,Prefabricated Metal Buildings
+MAR05J0A8,,,3448,Prefabricated Metal Buildings
+MAR05J0A9,,,4491,Marine Cargo Handling
+MAR05J0AA,,,3433,"Heating Equipment, Except Electric"
+MAR05J0AB,,,2875,"Fertilizers, Mixing Only"
+MAR05J0AD,,,4581,"Airports, Flying Fields, & Services"
+MAR05J0AE,,,4581,"Airports, Flying Fields, & Services"
+MAR05J0AF,,,4131,Intercity & Rural Bus Transportation
+MAR05J0AG,,,5093,Scrap And Waste Materials
+MAR05J0AH,,,4111,Local And Suburban Transit
+MAR05J0AI,,,4212,"Local Trucking, Without Storage"
+MAR05J0AJ,,,5093,Scrap And Waste Materials
+MAR05J0AK,,,5093,Scrap And Waste Materials
+MAR05J0AL,,,5093,Scrap And Waste Materials
+MAR05J0AM,,,4225,General Warehousing And Storage
+MAR05J0AN,,,5015,"Motor Vehicle Parts, Used"
+MAR05J0AO,,,5015,"Motor Vehicle Parts, Used"
+MAR05J0AP,,,5093,Scrap And Waste Materials
+MAR05J0AQ,,,4212,"Local Trucking, Without Storage"
+MAR05J0AS,,,2499,Wood Products
+MAR10A674,,,7992,Public Golf Courses
+MAR10BX09,,,5039,Construction Materials
+MAS000003,,,2951,Asphalt Paving Mixtures And Blocks
+MAS000007,,,4512,"Air Transportation, Scheduled"
+MAS000010,,,3351,Copper Rolling And Drawing
+MAS000013,,,3671,Electron Tubes
+MAS000017,,,4953,Refuse Systems
+MAS000020,,,4493,Marinas
+MAU000020,,,1629,Heavy Construction
+MAU000033,,,3999,Manufacturing Industries
+MAU250911,,,8069,Specialty Hospitals Except Psychiatric
+MAU250929,,,7349,Building Maintenance Services
+MAU251364,,,8062,General Medical & Surgical Hospitals
+MAU251496,,,1389,Oil And Gas Field Services
+MAU251712,,,4941,Water Supply
